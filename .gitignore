@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 3D printing / CAD
+*.gcode
+*.3mf
+*.chitubox
+*.zip
+build/
+dist/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Downloaded model files (not tracked, use manifest to reproduce)
+models/*/downloads/
