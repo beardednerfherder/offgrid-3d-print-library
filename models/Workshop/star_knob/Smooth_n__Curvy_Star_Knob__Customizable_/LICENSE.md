@@ -1,0 +1,52 @@
+# License / Attribution
+
+## Model
+
+**Name:** Smooth N  Curvy Star Knob  Customizable 
+
+**Model folder:** `models/Workshop/star_knob/Smooth_n__Curvy_Star_Knob__Customizable_`
+
+## Files Covered
+
+- `files/StarKnob-legacy.scad`
+- `files/StarKnob-m8-3star_highres.stl`
+
+## Source
+
+**Source site:** UNKNOWN / NEEDS REVIEW
+
+**Original URL:** UNKNOWN / NEEDS REVIEW
+
+**Creator / author:** UNKNOWN / NEEDS REVIEW
+
+**Matched data file:** No CSV match found
+
+**Match confidence:** 0.00
+
+## License
+
+**License:** UNKNOWN / NEEDS REVIEW
+
+**Original license text:** UNKNOWN / NEEDS REVIEW
+
+## Permission Summary
+
+**Redistribution:** UNKNOWN / NEEDS REVIEW
+
+**Commercial use:** UNKNOWN / NEEDS REVIEW
+
+**Remix / modified redistribution:** UNKNOWN / NEEDS REVIEW
+
+**Plain-English note:** License has not been confirmed. Treat as personal/private use only until reviewed.
+
+## Review Status
+
+**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+
+This file was generated automatically from the repo's existing CSV/manifests and local model files.
+
+This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
+
+## Notes
+
+Updated: 2026-06-10
