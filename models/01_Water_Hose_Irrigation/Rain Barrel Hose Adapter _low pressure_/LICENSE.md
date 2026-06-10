@@ -8,8 +8,7 @@
 
 ## Files Covered
 
-- `hose-connector.stl`
-- `hose-screw.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

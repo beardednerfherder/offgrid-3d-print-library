@@ -8,12 +8,7 @@
 
 ## Files Covered
 
-- `bag_clip_lite_0.25-68-3.STL`
-- `bag_clip_lite_0.25-68-3_2.STL`
-- `bag_clip_standard_1.1_0.5-100-5.STL`
-- `bag_clip_standard_1.1_0.5-100-5_2.STL`
-- `bag_clip_standard_1.1_0.5-160-8.STL`
-- `bag_clip_standard_1.1_0.5-160-8_2.STL`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

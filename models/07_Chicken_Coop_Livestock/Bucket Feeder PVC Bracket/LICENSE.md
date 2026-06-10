@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `twowordsculpture_20190508-67-tcxntd.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

@@ -8,11 +8,7 @@
 
 ## Files Covered
 
-- `cust_fidget_ring_v1_5_All20200704-48-1t3rlrp.stl`
-- `cust_fidget_ring_v1_5_Inner20200704-48-obadig.stl`
-- `cust_fidget_ring_v1_5_Outer20200704-48-1xfxibx.stl`
-- `cust_fidget_ring_v1_5_Ring20200704-48-82za1w.stl`
-- `cust_fidget_ring_v1_5_Spinner20200704-48-1qsuzl.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

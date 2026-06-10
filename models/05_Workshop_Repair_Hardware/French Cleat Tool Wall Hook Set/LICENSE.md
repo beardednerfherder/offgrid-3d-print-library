@@ -8,9 +8,7 @@
 
 ## Files Covered
 
-- `Mesita_Impresora_unica_3.stl`
-- `PortaHerramientas_2.stl`
-- `Super_Waasa_1.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

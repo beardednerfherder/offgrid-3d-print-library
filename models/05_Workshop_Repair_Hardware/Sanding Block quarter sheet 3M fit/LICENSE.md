@@ -8,9 +8,7 @@
 
 ## Files Covered
 
-- `Bottom.stl`
-- `Screw1.stl`
-- `Top.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

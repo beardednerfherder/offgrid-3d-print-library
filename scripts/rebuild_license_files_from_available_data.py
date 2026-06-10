@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 
 MODEL_EXTS = {".stl", ".3mf", ".step", ".stp", ".scad", ".fcstd", ".f3d"}
 ROOT = Path("models")
-MANIFESTS = Path("manifests")
+MANIFEST_DIRS = [Path("manifests"), Path("metadata"), Path("_archive")]
 
 def norm(s):
     s = str(s or "").lower()
@@ -192,18 +192,20 @@ def permission_summary(lic):
 
 def load_all_csv_rows():
     rows = []
-    if not MANIFESTS.exists():
-        return rows
 
-    for path in MANIFESTS.rglob("*.csv"):
-        try:
-            with path.open(newline="", encoding="utf-8", errors="ignore") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    row["_csv_file"] = str(path)
-                    rows.append(row)
-        except Exception as e:
-            print(f"WARNING: could not read {path}: {e}")
+    for base in MANIFEST_DIRS:
+        if not base.exists():
+            continue
+
+        for path in base.rglob("*.csv"):
+            try:
+                with path.open(newline="", encoding="utf-8", errors="ignore") as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        row["_csv_file"] = str(path)
+                        rows.append(row)
+            except Exception as e:
+                print(f"WARNING: could not read {path}: {e}")
 
     return rows
 

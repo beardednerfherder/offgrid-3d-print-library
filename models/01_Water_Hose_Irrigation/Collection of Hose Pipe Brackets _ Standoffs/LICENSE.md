@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `Osmo_Action_Battery_Rack_28_v2.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

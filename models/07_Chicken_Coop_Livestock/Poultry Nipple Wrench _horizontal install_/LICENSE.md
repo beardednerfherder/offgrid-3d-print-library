@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `unobtanium_container2.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

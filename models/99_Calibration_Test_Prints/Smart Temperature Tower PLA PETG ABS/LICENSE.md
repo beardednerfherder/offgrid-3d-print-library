@@ -8,32 +8,7 @@
 
 ## Files Covered
 
-- `SmartTemperatureTower.stl`
-- `SmartTemperatureTower_ABS_200-250.stl`
-- `SmartTemperatureTower_PETG_220-265.stl`
-- `SmartTemperatureTower_PLA_180-225.stl`
-- `SmartTemperatureTower_PLA_Plus_195-235.stl`
-- `SmartTemperatureTower_Stand.stl`
-- `SmartTemperatureTower_TempFloor_170.stl`
-- `SmartTemperatureTower_TempFloor_175.stl`
-- `SmartTemperatureTower_TempFloor_180.stl`
-- `SmartTemperatureTower_TempFloor_185.stl`
-- `SmartTemperatureTower_TempFloor_190.stl`
-- `SmartTemperatureTower_TempFloor_195.stl`
-- `SmartTemperatureTower_TempFloor_200.stl`
-- `SmartTemperatureTower_TempFloor_205.stl`
-- `SmartTemperatureTower_TempFloor_210.stl`
-- `SmartTemperatureTower_TempFloor_215.stl`
-- `SmartTemperatureTower_TempFloor_220.stl`
-- `SmartTemperatureTower_TempFloor_225.stl`
-- `SmartTemperatureTower_TempFloor_230.stl`
-- `SmartTemperatureTower_TempFloor_235.stl`
-- `SmartTemperatureTower_TempFloor_240.stl`
-- `SmartTemperatureTower_TempFloor_245.stl`
-- `SmartTemperatureTower_TempFloor_250.stl`
-- `SmartTemperatureTower_TempFloor_255.stl`
-- `SmartTemperatureTower_TempFloor_260.stl`
-- `SmartTemperatureTower_TempFloor_265.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

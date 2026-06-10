@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `message_ring_customizer_20160103-3608-iexj7v-0.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

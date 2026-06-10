@@ -8,9 +8,7 @@
 
 ## Files Covered
 
-- `BASE.stl`
-- `JOB_BOARD.stl`
-- `ROOF.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

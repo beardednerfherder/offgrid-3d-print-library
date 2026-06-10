@@ -8,8 +8,7 @@
 
 ## Files Covered
 
-- `mason_jar_ring_lid_wide.stl`
-- `mason_jar_ring_lid_wide_insert.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

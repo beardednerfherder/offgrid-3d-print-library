@@ -8,8 +8,7 @@
 
 ## Files Covered
 
-- `Plug_1_Revised.stl`
-- `candle_holder.STL`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

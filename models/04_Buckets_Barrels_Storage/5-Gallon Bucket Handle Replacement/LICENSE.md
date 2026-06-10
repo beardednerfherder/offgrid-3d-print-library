@@ -8,11 +8,7 @@
 
 ## Files Covered
 
-- `Bucket_Handle_Insert.STL`
-- `Bucket_Handle_Threaded_Half.STL`
-- `Bucket_Handle_UnThreaded_Half.STL`
-- `m4bolt10mm.STL`
-- `m4bolt10mm_cutaway.STL`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

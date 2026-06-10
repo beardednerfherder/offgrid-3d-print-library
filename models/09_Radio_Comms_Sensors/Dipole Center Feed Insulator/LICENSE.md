@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `trojkat-izolator-v2.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

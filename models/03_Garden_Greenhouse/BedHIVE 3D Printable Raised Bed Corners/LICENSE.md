@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `BedHIVE.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `Hose_Cap_1.STL`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

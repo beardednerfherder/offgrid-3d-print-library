@@ -8,15 +8,7 @@
 
 ## Files Covered
 
-- `cleatToolHolder_-_bits.stl`
-- `cleatToolHolder_-_bits2.stl`
-- `cleatToolHolder_-_epoxyX2.stl`
-- `cleatToolHolder_-_gorillaX1.stl`
-- `cleatToolHolder_-_kickerX1.stl`
-- `cleatToolHolder_-_screwdrivers.stl`
-- `cleatToolHolder_-_zap1ozX1.stl`
-- `cleatToolHolder_-_zap1ozX2.stl`
-- `cleatToolHolder_-_zap1ozX3.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

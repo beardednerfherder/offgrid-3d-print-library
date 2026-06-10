@@ -8,8 +8,7 @@
 
 ## Files Covered
 
-- `pex-90degree_bend_clamp.stl`
-- `pex_clamp.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

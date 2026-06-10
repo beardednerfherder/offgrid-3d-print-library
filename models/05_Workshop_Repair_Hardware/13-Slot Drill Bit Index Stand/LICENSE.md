@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `Tundra_dropper_base_plate.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

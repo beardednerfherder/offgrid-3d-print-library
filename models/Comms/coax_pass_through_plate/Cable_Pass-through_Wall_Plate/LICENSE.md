@@ -9,6 +9,7 @@
 ## Files Covered
 
 - `files/CablePassThrough.stl`
+- `files/Cable_Passthrough.obj`
 
 ## Source
 

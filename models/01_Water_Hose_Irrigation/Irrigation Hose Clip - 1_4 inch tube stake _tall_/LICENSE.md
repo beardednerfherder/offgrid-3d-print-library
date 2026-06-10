@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `stake_tube.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

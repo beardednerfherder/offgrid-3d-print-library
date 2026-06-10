@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `xyzCalibration_cube.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

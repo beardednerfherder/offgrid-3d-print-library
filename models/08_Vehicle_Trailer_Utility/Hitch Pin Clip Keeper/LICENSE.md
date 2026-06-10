@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `GPL_Sword_Equip.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

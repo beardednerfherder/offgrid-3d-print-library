@@ -8,8 +8,7 @@
 
 ## Files Covered
 
-- `_5-Gallon_Paint_Can_Opener.stl`
-- `stencil-o-matic_20161009-11612-1taxnan-0.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

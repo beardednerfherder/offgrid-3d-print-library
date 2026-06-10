@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `GuyInsulator10mm.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `soap_tray.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

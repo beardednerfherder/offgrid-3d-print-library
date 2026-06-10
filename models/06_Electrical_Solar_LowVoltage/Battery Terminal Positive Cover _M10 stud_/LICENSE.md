@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `WoodenSpoonRest.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

@@ -8,8 +8,7 @@
 
 ## Files Covered
 
-- `bearing5.stl`
-- `bearing6.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 

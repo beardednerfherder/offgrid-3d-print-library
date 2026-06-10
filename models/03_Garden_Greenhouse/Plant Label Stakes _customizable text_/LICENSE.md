@@ -8,7 +8,7 @@
 
 ## Files Covered
 
-- `bed_thumb_screw_anet_a3.stl`
+- No printable/CAD files found in `files/`.
 
 ## Source
 
