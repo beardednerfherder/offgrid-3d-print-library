@@ -75,7 +75,7 @@ Printed parts are best used for:
 * Garden and greenhouse clips.
 * Workshop jigs.
 * Labels and holders.
-* Sensor/camera/radio mounts.
+* Sensor, camera, and radio mounts.
 * Non-structural repair aids.
 
 Read `docs/SAFETY.md` before using any printed part near water, electricity, livestock, vehicles, trailers, or structural loads.
@@ -94,120 +94,79 @@ Read `docs/SAFETY.md` before using any printed part near water, electricity, liv
 
 See `docs/FILAMENT_GUIDE.md` for more detail.
 
-## Community Model Licenses
-
-This library may contain a mix of:
-
-1. Original models created for this repo.
-2. Downloaded community models.
-3. Links/manifests pointing to models hosted elsewhere.
-
-Community models retain their original licenses. Check the original source page and any local `SOURCE.md` file before redistributing, remixing, selling, or uploading elsewhere.
-
-When in doubt, use the source link and respect the creator’s license.
-
 ## Recommended Use
 
 A practical workflow:
 
 1. Browse the folder that matches your project.
 2. Open the model in your slicer or CAD software.
-3. Check the source notes and safety notes.
-4. Choose a filament suitable for the environment.
-5. Print one test part.
-6. Inspect fit, strength, and brittleness.
-7. Reprint in PETG/ASA/TPU if needed.
-8. Replace any outdoor part that cracks, warps, or becomes brittle.
+3. Choose a filament suitable for the environment.
+4. Print one test part.
+5. Inspect fit, strength, brittleness, and heat/UV suitability.
+6. Reprint in PETG, ASA, ABS, TPU, or another suitable material if needed.
+7. Replace any outdoor part that cracks, warps, or becomes brittle.
 
-## Maintainer Notes
+## Adding New Files
 
-The scripts and manifests are mainly for maintaining and expanding the library.
+This repo is intended to stay simple.
 
-Main files:
+To add new models:
 
-| Path                                | Purpose                                                                |
-| ----------------------------------- | ---------------------------------------------------------------------- |
-| `manifests/wanted_targets.csv`      | List of model types this library is trying to collect.                 |
-| `manifests/candidates.csv`          | Search results that still need human review.                           |
-| `manifests/approved_models.csv`     | Models approved for download or inclusion.                             |
-| `manifests/rejected_models.csv`     | Bad matches, toys, unsafe models, wrong files, or bad-license entries. |
-| `manifests/download_audit.csv`      | Audit of downloaded files.                                             |
-| `scripts/search_candidates_v3.py`   | Finds candidate models.                                                |
-| `scripts/build_review_page.py`      | Builds a review page from the candidate CSV.                           |
-| `scripts/split_review_decisions.py` | Splits approved and rejected rows.                                     |
-| `scripts/download_approved.py`      | Downloads approved models where possible.                              |
-| `scripts/audit_downloads.py`        | Checks downloaded model folders and files.                             |
+1. Choose the most appropriate folder under `models/`.
+2. Create a clear folder name for the part.
+3. Add the printable files.
+4. Prefer STEP/STP, SCAD, FreeCAD, Fusion, or other editable source files when available.
+5. Avoid huge files where possible.
+6. Do not add files over 100 MB, because GitHub rejects them.
+7. Run the repo check script before committing.
 
-Maintainer workflow:
+Example:
 
 ```bash
-source .venv/bin/activate
-
-python3 scripts/search_candidates_v3.py \
-  --targets manifests/wanted_targets.csv \
-  --out manifests/candidates.csv \
-  --thingiverse-token "$THINGIVERSE_TOKEN" \
-  --sources thingiverse,printables,github \
-  --per-target 5 \
-  --min-score 8 \
-  --prefer-step
-
-python3 scripts/build_review_page.py \
-  --candidates manifests/candidates.csv \
-  --out review.html
-
-python3 scripts/split_review_decisions.py \
-  --candidates manifests/candidates.csv \
-  --approved manifests/approved_models.csv \
-  --rejected manifests/rejected_models.csv
-
-python3 scripts/download_approved.py \
-  --approved manifests/approved_models.csv \
-  --out models \
-  --thingiverse-token "$THINGIVERSE_TOKEN" \
-  --prefer-source \
-  --open-manual
-
-python3 scripts/audit_downloads.py \
-  --models models \
-  --out manifests/download_audit.csv
+mkdir -p "models/03_Garden_Greenhouse/shade_cloth_clip/files"
+cp ~/Downloads/shade_cloth_clip.stl "models/03_Garden_Greenhouse/shade_cloth_clip/files/"
+python3 scripts/check_repo.py
+git add models/03_Garden_Greenhouse/shade_cloth_clip
+git commit -m "Add shade cloth clip"
+git push
 ```
 
-Before committing, check for oversized files:
+## Repo Check
+
+Before committing new files, run:
 
 ```bash
-find . -type f -size +95M -not -path "./.git/*" -print
+python3 scripts/check_repo.py
 ```
 
-GitHub rejects files over 100 MB. Large community files should usually be left out of the repo and documented with a source link instead.
+This checks for oversized model files.
+
+GitHub rejects files over 100 MB. Files over 50 MB should be avoided unless they are truly worth keeping.
+
+## Community Files and Use
+
+This repository is maintained as a practical 3D print file library.
+
+Some files may originate from community model sources and may retain their original creator licenses. If you plan to redistribute, sell, remix, or use files commercially, verify the source and license yourself before doing so.
+
+This repo is intended as a practical personal/off-grid print library, not a legal license database.
 
 ## Contributing
 
 Pull requests are welcome for:
 
-* New useful model links.
+* Useful utility models.
 * Better category organization.
 * STEP/STP or parametric source alternatives.
 * Better print settings.
 * Field-tested notes.
 * Safety improvements.
-* Removal of bad or unsafe models.
-* License corrections.
+* Removal of bad, unsafe, broken, or oversized models.
 
-Preferred model status labels:
-
-| Status         | Meaning                                                             |
-| -------------- | ------------------------------------------------------------------- |
-| `candidate`    | Found by search, not reviewed yet.                                  |
-| `approved`     | Human-reviewed and worth downloading.                               |
-| `downloaded`   | Files downloaded locally.                                           |
-| `sliced_ok`    | Opened successfully in slicer.                                      |
-| `printed_ok`   | Successfully printed.                                               |
-| `field_tested` | Actually used in the real world.                                    |
-| `rejected`     | Wrong, unsafe, decorative, toy/model, bad license, or poor quality. |
+Good contributions should be practical, printable, and useful for real-world homestead/off-grid/shop/garden use.
 
 ## License
 
 Original models and documentation created specifically for this repository are released under CC0 1.0 Universal unless otherwise noted.
 
-Community models linked, referenced, or downloaded from third-party sites retain their original licenses. Check each model’s source page and local `SOURCE.md` before redistributing, remixing, selling, or uploading files.
+Community models may retain their original licenses. Verify before commercial use, redistribution, or remixing.
