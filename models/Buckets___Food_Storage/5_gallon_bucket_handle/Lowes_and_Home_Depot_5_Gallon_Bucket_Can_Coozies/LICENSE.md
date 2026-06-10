@@ -4,7 +4,7 @@
 
 **Name:** Lowes And Home Depot 5 Gallon Bucket Can Coozies
 
-**Model folder:** `models/Buckets___Food_Storage/5_gallon_bucket_handle/Lowes_and_Home_Depot_5_Gallon_Bucket_Can_Coozies`
+**Model folder:** ``models/Buckets___Food_Storage/5_gallon_bucket_handle/Lowes_and_Home_Depot_5_Gallon_Bucket_Can_Coozies``
 
 ## Files Covered
 
@@ -14,17 +14,19 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:5744124
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 1.19
 
 ## License
+
+**License class:** UNKNOWN
 
 **License:** UNKNOWN / NEEDS REVIEW
 
@@ -42,12 +44,12 @@
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** REVIEW REQUIRED
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

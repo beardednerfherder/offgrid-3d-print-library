@@ -2,9 +2,9 @@
 
 ## Model
 
-**Name:** Heltec Lora32 V3 Case With Neo 7M Gps Module  103665 Battery  And Buzzer
+**Name:** Heltec LoRa32 V3 case with NEO-7M GPS module, 103665 battery, and buzzer
 
-**Model folder:** `models/Comms/Meshtastic_Heltec_V3_case/Heltec_LoRa32_V3_case_with_NEO-7M_GPS_module__103665_battery__and_buzzer`
+**Model folder:** ``models/Comms/Meshtastic_Heltec_V3_case/Heltec_LoRa32_V3_case_with_NEO-7M_GPS_module__103665_battery__and_buzzer``
 
 ## Files Covered
 
@@ -15,17 +15,19 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://cdn.thingiverse.com/assets/ba/a3/ec/64/a4/nodeM2.jpg
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.90
 
 ## License
+
+**License class:** UNKNOWN
 
 **License:** UNKNOWN / NEEDS REVIEW
 
@@ -43,12 +45,12 @@
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** REVIEW REQUIRED
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

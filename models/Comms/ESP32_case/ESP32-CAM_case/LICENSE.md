@@ -2,9 +2,9 @@
 
 ## Model
 
-**Name:** Esp32 Cam Case
+**Name:** ESP32-CAM case
 
-**Model folder:** `models/Comms/ESP32_case/ESP32-CAM_case`
+**Model folder:** ``models/Comms/ESP32_case/ESP32-CAM_case``
 
 ## Files Covered
 
@@ -15,40 +15,42 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:3463679
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.78
 
 ## License
 
-**License:** UNKNOWN / NEEDS REVIEW
+**License class:** OPEN
 
-**Original license text:** UNKNOWN / NEEDS REVIEW
+**License:** CC BY
+
+**Original license text:** CC BY
 
 ## Permission Summary
 
-**Redistribution:** UNKNOWN / NEEDS REVIEW
+**Redistribution:** Yes, with attribution
 
-**Commercial use:** UNKNOWN / NEEDS REVIEW
+**Commercial use:** Usually yes
 
-**Remix / modified redistribution:** UNKNOWN / NEEDS REVIEW
+**Remix / modified redistribution:** Usually yes, with attribution
 
-**Plain-English note:** License has not been confirmed. Treat as personal/private use only until reviewed.
+**Plain-English note:** Open Creative Commons license. Attribution is required.
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** OK
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

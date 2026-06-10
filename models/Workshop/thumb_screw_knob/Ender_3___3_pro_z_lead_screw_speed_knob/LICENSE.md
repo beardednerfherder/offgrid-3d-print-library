@@ -4,7 +4,7 @@
 
 **Name:** Ender 3   3 Pro Z Lead Screw Speed Knob
 
-**Model folder:** `models/Workshop/thumb_screw_knob/Ender_3___3_pro_z_lead_screw_speed_knob`
+**Model folder:** ``models/Workshop/thumb_screw_knob/Ender_3___3_pro_z_lead_screw_speed_knob``
 
 ## Files Covered
 
@@ -13,17 +13,19 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:3373265
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.74
 
 ## License
+
+**License class:** UNKNOWN
 
 **License:** UNKNOWN / NEEDS REVIEW
 
@@ -41,12 +43,12 @@
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** REVIEW REQUIRED
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

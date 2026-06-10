@@ -2,9 +2,9 @@
 
 ## Model
 
-**Name:** Pvc Pipe 3 4   1  Od  U Clip  Hangers    Joiner   Holds Fabric  Cloth  Hanging Items
+**Name:** PVC Pipe 3/4" (1" OD) U Clip, Hangers, & Joiner - Holds fabric, cloth, hanging items
 
-**Model folder:** `models/PEX___Tubing/PEX_pipe_clip/PVC_Pipe_3_4___1__OD__U_Clip__Hangers____Joiner_-_Holds_fabric__cloth__hanging_items`
+**Model folder:** ``models/PEX___Tubing/PEX_pipe_clip/PVC_Pipe_3_4___1__OD__U_Clip__Hangers____Joiner_-_Holds_fabric__cloth__hanging_items``
 
 ## Files Covered
 
@@ -16,40 +16,42 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:1995676
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.91
 
 ## License
 
-**License:** UNKNOWN / NEEDS REVIEW
+**License class:** OPEN
 
-**Original license text:** UNKNOWN / NEEDS REVIEW
+**License:** CC BY-SA
+
+**Original license text:** CC BY-SA
 
 ## Permission Summary
 
-**Redistribution:** UNKNOWN / NEEDS REVIEW
+**Redistribution:** Yes, with attribution, share-alike
 
-**Commercial use:** UNKNOWN / NEEDS REVIEW
+**Commercial use:** Usually yes
 
-**Remix / modified redistribution:** UNKNOWN / NEEDS REVIEW
+**Remix / modified redistribution:** Yes, share-alike
 
-**Plain-English note:** License has not been confirmed. Treat as personal/private use only until reviewed.
+**Plain-English note:** Open Creative Commons license with attribution and share-alike requirements.
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** OK
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

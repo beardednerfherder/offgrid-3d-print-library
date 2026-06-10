@@ -4,7 +4,7 @@
 
 **Name:** Door Panel Remover   Clip Remover
 
-**Model folder:** `models/Trailer___Vehicle_utility/panel_clip/Door_Panel_Remover___Clip_Remover`
+**Model folder:** ``models/Trailer___Vehicle_utility/panel_clip/Door_Panel_Remover___Clip_Remover``
 
 ## Files Covered
 
@@ -12,17 +12,19 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:145272
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.81
 
 ## License
+
+**License class:** UNKNOWN
 
 **License:** UNKNOWN / NEEDS REVIEW
 
@@ -40,12 +42,12 @@
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** REVIEW REQUIRED
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

@@ -2,9 +2,9 @@
 
 ## Model
 
-**Name:** Heltec V3 Lora Meshtastic No Screw Case
+**Name:** Heltec v3 lora meshtastic no screw case
 
-**Model folder:** `models/Comms/Meshtastic_Heltec_V3_case/Heltec_v3_lora_meshtastic_no_screw_case`
+**Model folder:** ``models/Comms/Meshtastic_Heltec_V3_case/Heltec_v3_lora_meshtastic_no_screw_case``
 
 ## Files Covered
 
@@ -15,40 +15,42 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:7265764
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.82
 
 ## License
 
-**License:** UNKNOWN / NEEDS REVIEW
+**License class:** OPEN
 
-**Original license text:** UNKNOWN / NEEDS REVIEW
+**License:** CC BY-SA
+
+**Original license text:** CC BY-SA
 
 ## Permission Summary
 
-**Redistribution:** UNKNOWN / NEEDS REVIEW
+**Redistribution:** Yes, with attribution, share-alike
 
-**Commercial use:** UNKNOWN / NEEDS REVIEW
+**Commercial use:** Usually yes
 
-**Remix / modified redistribution:** UNKNOWN / NEEDS REVIEW
+**Remix / modified redistribution:** Yes, share-alike
 
-**Plain-English note:** License has not been confirmed. Treat as personal/private use only until reviewed.
+**Plain-English note:** Open Creative Commons license with attribution and share-alike requirements.
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** OK
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

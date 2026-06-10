@@ -2,9 +2,9 @@
 
 ## Model
 
-**Name:** Dipole Center Connector V2.0
+**Name:** dipole center connector V2.0
 
-**Model folder:** `models/Comms/dipole_center_insulator/dipole_center_connector_V2.0`
+**Model folder:** ``models/Comms/dipole_center_insulator/dipole_center_connector_V2.0``
 
 ## Files Covered
 
@@ -13,40 +13,42 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:2120885
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.83
 
 ## License
 
-**License:** UNKNOWN / NEEDS REVIEW
+**License class:** OPEN
 
-**Original license text:** UNKNOWN / NEEDS REVIEW
+**License:** GPL
+
+**Original license text:** GPL
 
 ## Permission Summary
 
-**Redistribution:** UNKNOWN / NEEDS REVIEW
+**Redistribution:** Usually yes, under license terms
 
-**Commercial use:** UNKNOWN / NEEDS REVIEW
+**Commercial use:** Usually yes, under license terms
 
-**Remix / modified redistribution:** UNKNOWN / NEEDS REVIEW
+**Remix / modified redistribution:** Usually yes, under license terms
 
-**Plain-English note:** License has not been confirmed. Treat as personal/private use only until reviewed.
+**Plain-English note:** Open/permissive or free-software style license. Keep required notices and follow the original terms.
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** OK
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

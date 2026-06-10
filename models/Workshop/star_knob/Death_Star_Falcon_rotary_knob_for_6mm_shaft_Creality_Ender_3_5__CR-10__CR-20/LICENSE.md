@@ -2,9 +2,9 @@
 
 ## Model
 
-**Name:** Death Star Falcon Rotary Knob For 6Mm Shaft Creality Ender 3 5  Cr 10  Cr 20
+**Name:** Death Star Falcon rotary knob for 6mm shaft Creality Ender 3/5, CR-10, CR-20
 
-**Model folder:** `models/Workshop/star_knob/Death_Star_Falcon_rotary_knob_for_6mm_shaft_Creality_Ender_3_5__CR-10__CR-20`
+**Model folder:** ``models/Workshop/star_knob/Death_Star_Falcon_rotary_knob_for_6mm_shaft_Creality_Ender_3_5__CR-10__CR-20``
 
 ## Files Covered
 
@@ -13,17 +13,19 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://cdn.thingiverse.com/assets/1f/87/26/22/be/20190311_135615.jpg
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.92
 
 ## License
+
+**License class:** UNKNOWN
 
 **License:** UNKNOWN / NEEDS REVIEW
 
@@ -41,12 +43,12 @@
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** REVIEW REQUIRED
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10

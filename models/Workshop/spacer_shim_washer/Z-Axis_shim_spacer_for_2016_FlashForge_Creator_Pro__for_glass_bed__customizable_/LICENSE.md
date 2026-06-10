@@ -2,9 +2,9 @@
 
 ## Model
 
-**Name:** Z Axis Shim Spacer For 2016 Flashforge Creator Pro  For Glass Bed  Customizable 
+**Name:** Z-Axis shim spacer for 2016 FlashForge Creator Pro (for glass bed, customizable)
 
-**Model folder:** `models/Workshop/spacer_shim_washer/Z-Axis_shim_spacer_for_2016_FlashForge_Creator_Pro__for_glass_bed__customizable_`
+**Model folder:** ``models/Workshop/spacer_shim_washer/Z-Axis_shim_spacer_for_2016_FlashForge_Creator_Pro__for_glass_bed__customizable_``
 
 ## Files Covered
 
@@ -17,40 +17,42 @@
 
 ## Source
 
-**Source site:** UNKNOWN / NEEDS REVIEW
+**Source site:** thingiverse
 
-**Original URL:** UNKNOWN / NEEDS REVIEW
+**Original URL:** https://www.thingiverse.com/thing:1886458
 
 **Creator / author:** UNKNOWN / NEEDS REVIEW
 
-**Matched data file:** No CSV match found
+**Matched data file:** _archive/scraper_bootstrap/manifests/license_audit.csv
 
-**Match confidence:** 0.00
+**Match confidence:** 0.90
 
 ## License
 
-**License:** UNKNOWN / NEEDS REVIEW
+**License class:** OPEN
 
-**Original license text:** UNKNOWN / NEEDS REVIEW
+**License:** CC BY-SA
+
+**Original license text:** CC BY-SA
 
 ## Permission Summary
 
-**Redistribution:** UNKNOWN / NEEDS REVIEW
+**Redistribution:** Yes, with attribution, share-alike
 
-**Commercial use:** UNKNOWN / NEEDS REVIEW
+**Commercial use:** Usually yes
 
-**Remix / modified redistribution:** UNKNOWN / NEEDS REVIEW
+**Remix / modified redistribution:** Yes, share-alike
 
-**Plain-English note:** License has not been confirmed. Treat as personal/private use only until reviewed.
+**Plain-English note:** Open Creative Commons license with attribution and share-alike requirements.
 
 ## Review Status
 
-**Status:** UNKNOWN / NEEDS HUMAN REVIEW
+**Status:** OK
 
-This file was generated automatically from the repo's existing CSV/manifests and local model files.
+This file was normalized automatically from existing license metadata.
 
 This is not legal advice. Before selling prints, redistributing files outside this repo, remixing models, or uploading elsewhere, verify the license from the original source when possible.
 
 ## Notes
 
-Updated: 2026-06-10
+Normalized: 2026-06-10
