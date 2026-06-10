@@ -22,25 +22,25 @@
 
 **Original URL:** https://www.printables.com/model/702168-fully-printable-drop-spindle
 
-**Creator / author:** UNKNOWN / NEEDS REVIEW
+**Creator / author:** @Jazznow_542882
 
 ## License
 
-**License class:** UNKNOWN
+**License class:** RESTRICTED
 
-**License:** UNKNOWN / NEEDS REVIEW
+**License:** CC BY-NC-ND
 
-**Original license text:** UNKNOWN / NEEDS REVIEW
+**Original license text:** CC BY-NC-ND
 
 ## Permission Summary
 
-**Redistribution:** UNKNOWN / NEEDS REVIEW
+**Redistribution:** Yes, with attribution, non-commercial, unmodified only
 
-**Commercial use:** UNKNOWN / NEEDS REVIEW
+**Commercial use:** No
 
-**Remix / modified redistribution:** UNKNOWN / NEEDS REVIEW
+**Remix / modified redistribution:** No redistributed derivatives
 
-**Plain-English note:** License has not been confirmed. Treat as personal/private use only until reviewed.
+**Plain-English note:** Attribution required. Non-commercial only. Do not redistribute modified/remixed versions.
 
 ## Review Status
 

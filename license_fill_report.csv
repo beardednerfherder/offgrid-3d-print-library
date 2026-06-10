@@ -1,325 +1,497 @@
 model_folder,model_name,file_count,source_site,original_url,creator,license,matched_data_file,match_confidence,status
-models/01_Water_Hose_Irrigation/1_4_ Goof_Oops Plug,1 4  Goof Oops Plug,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/01_Water_Hose_Irrigation/Collection of Hose Pipe Brackets _ Standoffs,Collection Of Hose Pipe Brackets   Standoffs,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/01_Water_Hose_Irrigation/Garden Hose Cap _GHT female_,Garden Hose Cap  Ght Female ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/01_Water_Hose_Irrigation/Hose Connector _rain barrel gravity feed_,Hose Connector  Rain Barrel Gravity Feed ,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/01_Water_Hose_Irrigation/Irrigation Hose Clip - 1_4 inch tube stake _tall_,Irrigation Hose Clip   1 4 Inch Tube Stake  Tall ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/01_Water_Hose_Irrigation/Rain Barrel Hose Adapter _low pressure_,Rain Barrel Hose Adapter  Low Pressure ,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/02_PEX_Tubing_NonPressure/PEX Clips 90-degree and straight _1_2 inch_,Pex Clips 90 Degree And Straight  1 2 Inch ,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/03_Garden_Greenhouse/BedHIVE 3D Printable Raised Bed Corners,Bedhive 3D Printable Raised Bed Corners,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/03_Garden_Greenhouse/BedHIVE Raised Garden Bed Corners,Bedhive Raised Garden Bed Corners,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/03_Garden_Greenhouse/Plant Label Stakes _customizable text_,Plant Label Stakes  Customizable Text ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/03_Garden_Greenhouse/Seed Spacing Ruler 300mm,Seed Spacing Ruler 300Mm,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/04_Buckets_Barrels_Storage/5-Gallon Bucket Handle Replacement,5 Gallon Bucket Handle Replacement,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/04_Buckets_Barrels_Storage/5-Gallon Bucket Lid Opener Tool,5 Gallon Bucket Lid Opener Tool,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/04_Buckets_Barrels_Storage/High Strength Bag Clip 100mm and 160mm,High Strength Bag Clip 100Mm And 160Mm,6,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/04_Buckets_Barrels_Storage/Mason Jar Sprouting Lid 2-piece _wide_,Mason Jar Sprouting Lid 2 Piece  Wide ,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/04_Buckets_Barrels_Storage/Mason Jar Sprouting Lid 2-piece wide,Mason Jar Sprouting Lid 2 Piece Wide,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/05_Workshop_Repair_Hardware/13-Slot Drill Bit Index Stand,13 Slot Drill Bit Index Stand,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/05_Workshop_Repair_Hardware/French Cleat Tool Holder Customizable OpenSCAD,French Cleat Tool Holder Customizable Openscad,9,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/05_Workshop_Repair_Hardware/French Cleat Tool Wall Hook Set,French Cleat Tool Wall Hook Set,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/05_Workshop_Repair_Hardware/M5 Spacer Assortment _3-20mm heights_,M5 Spacer Assortment  3 20Mm Heights ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/05_Workshop_Repair_Hardware/Sanding Block quarter sheet 3M fit,Sanding Block Quarter Sheet 3M Fit,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/05_Workshop_Repair_Hardware/Sandpaper Block Quarter Sheet,Sandpaper Block Quarter Sheet,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/06_Electrical_Solar_LowVoltage/Battery Terminal Positive Cover _M10 stud_,Battery Terminal Positive Cover  M10 Stud ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/06_Electrical_Solar_LowVoltage/Universal Project Box 80x50x25 _parametric_,Universal Project Box 80X50X25  Parametric ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/07_Chicken_Coop_Livestock/Bucket Feeder PVC Bracket,Bucket Feeder Pvc Bracket,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/07_Chicken_Coop_Livestock/Poultry Nipple Wrench _horizontal install_,Poultry Nipple Wrench  Horizontal Install ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/07_Chicken_Coop_Livestock/T-Post Electric Fence Insulator Clip,T Post Electric Fence Insulator Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/08_Vehicle_Trailer_Utility/7-Pin Round Trailer Connector Dust Cap,7 Pin Round Trailer Connector Dust Cap,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/08_Vehicle_Trailer_Utility/Hitch Pin Clip Keeper,Hitch Pin Clip Keeper,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/09_Radio_Comms_Sensors/Dipole Center Feed Insulator,Dipole Center Feed Insulator,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/09_Radio_Comms_Sensors/Egg End Insulator _wire antenna_,Egg End Insulator  Wire Antenna ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/09_Radio_Comms_Sensors/Egg End Insulator wire antenna,Egg End Insulator Wire Antenna,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/99_Calibration_Test_Prints/20mm XYZ Calibration Cube,20Mm Xyz Calibration Cube,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/99_Calibration_Test_Prints/Smart Temperature Tower PLA PETG ABS,Smart Temperature Tower Pla Petg Abs,26,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/99_Calibration_Test_Prints/Temperature Tower 180-230C,Temperature Tower 180 230C,26,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/5_gallon_bucket_handle/5_Gallon_Bucket_handle,5 Gallon Bucket Handle,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/5_gallon_bucket_handle/5_Gallon_Pail_Handle,5 Gallon Pail Handle,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/5_gallon_bucket_handle/5___6_Gallon_Bucket_Spacer,5   6 Gallon Bucket Spacer,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/5_gallon_bucket_handle/Lowes_and_Home_Depot_5_Gallon_Bucket_Can_Coozies,Lowes And Home Depot 5 Gallon Bucket Can Coozies,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/5_gallon_bucket_handle/one10rc_5_Gallon_Bucket_1_10_v2,One10Rc 5 Gallon Bucket 1 10 V2,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bag_clip_heavy_duty/Clip_rotary_unlocking,Clip Rotary Unlocking,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bag_clip_heavy_duty/Crinkle_-_Reusable_Chip_Clip_and_Clothespin___Heavy_Duty,Crinkle   Reusable Chip Clip And Clothespin   Heavy Duty,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bag_clip_heavy_duty/Heavy_Duty_Carabiner,Heavy Duty Carabiner,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bag_clip_heavy_duty/Heavy_duty_bags_Holder,Heavy Duty Bags Holder,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bag_clip_heavy_duty/Pegboard_Heavy-Duty_Hanging_Bin_Clip,Pegboard Heavy Duty Hanging Bin Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bucket_clip_hook/5_gallon_bucket_lid_clip,5 Gallon Bucket Lid Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bucket_clip_hook/Billy_clip_hook,Billy Clip Hook,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bucket_clip_hook/bucket_hook,Bucket Hook,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bucket_lid_opener/5_Gallon_Lid_Opener-food_paint_bucket_can_pail_tool,5 Gallon Lid Opener Food Paint Bucket Can Pail Tool,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bucket_lid_opener/Bucket_Opener,Bucket Opener,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bucket_lid_opener/Can_opener_and_lid,Can Opener And Lid,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/bucket_lid_opener/Gamma_Seal_Lid_Opener,Gamma Seal Lid Opener,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/jar_funnel/Jar_funnel,Jar Funnel,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/jar_funnel/Mason_Jar_Filter_Funnel,Mason Jar Filter Funnel,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/jar_funnel/Mason_Jar_Funnel,Mason Jar Funnel,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/jar_funnel/funnel_for_spice_jar,Funnel For Spice Jar,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_sprouting_lid/Canning_Jar_Sprouting_Lid,Canning Jar Sprouting Lid,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_sprouting_lid/Fruit_Fly_Trap_Jar_Lid,Fruit Fly Trap Jar Lid,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_sprouting_lid/Mason_Jar_Lid_Holder,Mason Jar Lid Holder,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_sprouting_lid/Mason_Jar_Lid_Keeper,Mason Jar Lid Keeper,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_sprouting_lid/Sprouting_jar_lid,Sprouting Jar Lid,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_storage_cap/Canning_Jar_Lids,Canning Jar Lids,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_storage_cap/Mason_Jar_Lid_Keeper,Mason Jar Lid Keeper,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Buckets___Food_Storage/mason_jar_storage_cap/graduation_mason_jar_cap,Graduation Mason Jar Cap,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/ESP32_case/ESP32-CAM_case,Esp32 Cam Case,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/ESP32_case/ESP32_DevKit_Case,Esp32 Devkit Case,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/ESP32_case/ESP32_devkit_case,Esp32 Devkit Case,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/ESP32_case/Esp32_wroom_case,Esp32 Wroom Case,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/ESP32_case/esp32-case,Esp32 Case,7,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/Meshtastic_Heltec_V3_case/Heltec_LoRa32_V3_case_with_NEO-7M_GPS_module__103665_battery__and_buzzer,Heltec Lora32 V3 Case With Neo 7M Gps Module  103665 Battery  And Buzzer,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/Meshtastic_Heltec_V3_case/Heltec_V2_and_V3_Meshtastic_Lora_case,Heltec V2 And V3 Meshtastic Lora Case,10,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/Meshtastic_Heltec_V3_case/Heltec_V3_OLED_LoRa_Case,Heltec V3 Oled Lora Case,9,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/Meshtastic_Heltec_V3_case/Heltec_v3_lora_meshtastic_no_screw_case,Heltec V3 Lora Meshtastic No Screw Case,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/Meshtastic_Heltec_V3_case/Meshtastic_Heltec_V3_Case,Meshtastic Heltec V3 Case,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/RTL_SDR_case/RTL-SDR_Cooler,Rtl Sdr Cooler,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/RTL_SDR_case/RTL-SDR_Dongle_Case,Rtl Sdr Dongle Case,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/RTL_SDR_case/RTL-SDR_support,Rtl Sdr Support,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/RTL_SDR_case/RTL_SDR_Antenna_Kit_Bracket,Rtl Sdr Antenna Kit Bracket,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/RTL_SDR_case/Stratux_Nano_Dual_SDR_Case,Stratux Nano Dual Sdr Case,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/antenna_wire_winder/Antenna_Wire_Winder,Antenna Wire Winder,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/antenna_wire_winder/Ham_Radio_Dude_-_Wire_Winder___EFHW_Winder,Ham Radio Dude   Wire Winder   Efhw Winder,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/antenna_wire_winder/K6ARK_Ultralight_Antenna_Winder,K6Ark Ultralight Antenna Winder,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/antenna_wire_winder/Wire_Winder,Wire Winder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/coax_pass_through_plate/Cable_Pass-Through_Wall_Plate,Cable Pass Through Wall Plate,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/coax_pass_through_plate/Cable_Pass-through_Wall_Plate,Cable Pass Through Wall Plate,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/coax_pass_through_plate/Cable_Pass_Through_Brush_Plate,Cable Pass Through Brush Plate,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/coax_pass_through_plate/Cable_Pass_Through_Wall_Plate,Cable Pass Through Wall Plate,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/coax_pass_through_plate/Wall_Plate_Cable_Pass_Through,Wall Plate Cable Pass Through,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/dipole_center_insulator/Dipole_Antenna_Insulator_Block_-_k2fiq,Dipole Antenna Insulator Block   K2Fiq,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/dipole_center_insulator/Dipole_center_insulator,Dipole Center Insulator,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/dipole_center_insulator/Top_of_the_Pole_-_Dipole_Antenna_Centre_Insulator,Top Of The Pole   Dipole Antenna Centre Insulator,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/dipole_center_insulator/Wire_dipole_insulator,Wire Dipole Insulator,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/dipole_center_insulator/dipole_center_connector_V2.0,Dipole Center Connector V2.0,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/end_insulator/Antenna_End_Insulator,Antenna End Insulator,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/end_insulator/Antenna_End_Insulator__Dog_Bone__Insulator_,Antenna End Insulator  Dog Bone  Insulator ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/end_insulator/Antenna_wire_End_Insulator,Antenna Wire End Insulator,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/end_insulator/End_wire_insulator,End Wire Insulator,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/end_insulator/Universal_End_Insulator,Universal End Insulator,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/guy_line_tensioner/Guy_rope_tensioner,Guy Rope Tensioner,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/guy_line_tensioner/RopeSnap_-_Tent_line_tensioner,Ropesnap   Tent Line Tensioner,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Comms/guy_line_tensioner/Tent_Guy_Line_Rope_Cinch-up,Tent Guy Line Rope Cinch Up,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/greenhouse_clip/Greenhouse_Clip__customizable_,Greenhouse Clip  Customizable ,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/greenhouse_clip/Greenhouse_cable_clip_holder_OpenScad,Greenhouse Cable Clip Holder Openscad,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/greenhouse_clip/Greenhouse_frame_clip,Greenhouse Frame Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/greenhouse_clip/Greenhouse_plant_hanger_attachment_clip,Greenhouse Plant Hanger Attachment Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/greenhouse_clip/U_Clip_For_Greenhouses,U Clip For Greenhouses,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/plant_label_stake/Customizable_Garden_Plant_Label_Sign,Customizable Garden Plant Label Sign,148,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/plant_label_stake/Customizable_Nursery_Garden_Plant_Tag___Label_Stake_with_subtext,Customizable Nursery Garden Plant Tag   Label Stake With Subtext,10,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/plant_label_stake/Garden_Plant_Label,Garden Plant Label,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/plant_label_stake/Plant_Label,Plant Label,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/plant_label_stake/Plant_Label_Stake,Plant Label Stake,15,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/poly_tunnel_clamp/poly_tunnel_for_seeds,Poly Tunnel For Seeds,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/poly_tunnel_clamp/wood_train_montains_tunnel___low_poly___mountain_._brio___ikea_tunel,Wood Train Montains Tunnel   Low Poly   Mountain . Brio   Ikea Tunel,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/raised_bed_corner_bracket/Adjustable_glass_bed_corner_bracket,Adjustable Glass Bed Corner Bracket,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/raised_bed_corner_bracket/BedHIVE__3D_Printable_Raised_Garden_Bed_Corners,Bedhive  3D Printable Raised Garden Bed Corners,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/raised_bed_corner_bracket/Flashforge_Glass_Bed_Corner_Bracket,Flashforge Glass Bed Corner Bracket,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/raised_bed_corner_bracket/Raised_bed_garden_corner_bracket,Raised Bed Garden Corner Bracket,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/seed_spacing_ruler/Seed_Spacing_Template_-_Seed_Spacing_Tool_-_Gardening_Tool,Seed Spacing Template   Seed Spacing Tool   Gardening Tool,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/seed_spacing_ruler/Short_Seed_Ruler__Ruler,Short Seed Ruler  Ruler,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/seed_spacing_ruler/SpacingHIVE_-_GrowHIVE_Seed_Spacing_Gardening_Tool,Spacinghive   Growhive Seed Spacing Gardening Tool,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/shade_cloth_clip/PVC_Pipe_3_4___1__OD__U_Clip__Hangers____Joiner_-_Holds_fabric__cloth__hanging_items,Pvc Pipe 3 4   1  Od  U Clip  Hangers    Joiner   Holds Fabric  Cloth  Hanging Items,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/shade_cloth_clip/Shade_cloth_fence_holder,Shade Cloth Fence Holder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/shade_cloth_clip/Table_Cloth_Clip,Table Cloth Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/tomato_twine_clip/Simple_plant_clip_V2,Simple Plant Clip V2,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/tomato_twine_clip/Tomato_Clip,Tomato Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/tomato_twine_clip/Tomato_clip_on_wire_or_trellis_for_plants,Tomato Clip On Wire Or Trellis For Plants,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/tomato_twine_clip/Tomato_trellis_clip,Tomato Trellis Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/tomato_twine_clip/Trellis_Clip,Trellis Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/trellis_clip/Garden_String_Clip,Garden String Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/trellis_clip/Grow_Tent_Hangar_Clip_for_16mm_Poles_-_great_for_trellis_supports,Grow Tent Hangar Clip For 16Mm Poles   Great For Trellis Supports,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/trellis_clip/Tomato_clip_on_wire_or_trellis_for_plants,Tomato Clip On Wire Or Trellis For Plants,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/trellis_clip/Tomato_trellis_clip,Tomato Trellis Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Greenhouse___Garden/trellis_clip/Trellis_Clip,Trellis Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/PVC_feeder_bracket/3_4_Inch_PVC_Desk_Mounts___Customizable,3 4 Inch Pvc Desk Mounts   Customizable,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/PVC_feeder_bracket/Chicken_Feeder_PVC_adapter,Chicken Feeder Pvc Adapter,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/PVC_feeder_bracket/Chicken_feeder_PVC_100mm,Chicken Feeder Pvc 100Mm,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/PVC_feeder_bracket/PVC_Chicken_Feeder_Stop,Pvc Chicken Feeder Stop,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/PVC_feeder_bracket/PVC_corner_bracket,Pvc Corner Bracket,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/coop_door_guide_bracket/Filament_Guide,Filament Guide,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/coop_door_guide_bracket/Sliding_Closet_Door_floor_guide,Sliding Closet Door Floor Guide,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/coop_door_guide_bracket/Sliding_door_guide,Sliding Door Guide,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/egg_tray_spacer/9_Egg_Stackable_Storage_Tray,9 Egg Stackable Storage Tray,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/egg_tray_spacer/Egg_Tray,Egg Tray,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/egg_tray_spacer/Egg_tray__6_egg_holder_,Egg Tray  6 Egg Holder ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/feed_scoop_holder/Feed_Scoop,Feed Scoop,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/feed_scoop_holder/Feed___Seed_Scoop_1_Liter___Quart,Feed   Seed Scoop 1 Liter   Quart,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/feed_scoop_holder/Frigidaire_Countertop_Ice_Maker_Scoop_Holder,Frigidaire Countertop Ice Maker Scoop Holder,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/feed_scoop_holder/Scoop___Holder,Scoop   Holder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/feed_scoop_holder/Z18_Side_Mount_Spool_Holder,Z18 Side Mount Spool Holder,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/fence_insulator_clip/Electric_Fence_Insulator,Electric Fence Insulator,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/fence_insulator_clip/Electric_fence_insulator_MKII,Electric Fence Insulator Mkii,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/fence_insulator_clip/Insulator_for_electric_fence,Insulator For Electric Fence,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/fence_insulator_clip/electric_fence_insulator,Electric Fence Insulator,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/poultry_nipple_wrench/Chicken_Watering_Nipple_ADAPTER_to_PET_soft_drink_bottle__just_the_gray_part_in_the_photos,Chicken Watering Nipple Adapter To Pet Soft Drink Bottle  Just The Gray Part In The Photos,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/poultry_nipple_wrench/Nipple_Wrench,Nipple Wrench,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/poultry_nipple_wrench/connector_for_poultry_nipple_drinker,Connector For Poultry Nipple Drinker,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/waterer_clip/Bottle_Water_Clip,Bottle Water Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/waterer_clip/Petlibro_cat_waterer_clip,Petlibro Cat Waterer Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Livestock___Coop/waterer_clip/Water_Bottle_Clip,Water Bottle Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/Anderson_Powerpole_mount/Anderson_PowerPole__Wall__Mounts,Anderson Powerpole  Wall  Mounts,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/Anderson_Powerpole_mount/Anderson_Powerpole_Shroud,Anderson Powerpole Shroud,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/Anderson_Powerpole_mount/Anderson_powerpole_3way_splitter,Anderson Powerpole 3Way Splitter,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/Anderson_Powerpole_mount/PowerPole_mount,Powerpole Mount,10,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/Anderson_Powerpole_mount/Surface_Mount_SB50_Anderson_Powerpole,Surface Mount Sb50 Anderson Powerpole,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/DIN_rail_mount/Arduino_DIN_rail_clip___bumper,Arduino Din Rail Clip   Bumper,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/DIN_rail_mount/DIN_Mounts__Pi__Arduino_and_disks,Din Mounts  Pi  Arduino And Disks,17,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/DIN_rail_mount/DIN_Rail_Stand_KIT,Din Rail Stand Kit,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/DIN_rail_mount/DIN_Rail_Stand_v2,Din Rail Stand V2,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/DIN_rail_mount/Din_Rail_Mount,Din Rail Mount,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/MC4_dust_cap/BNC_Connector_Dust_Cap,Bnc Connector Dust Cap,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/MC4_dust_cap/Bicycle_Crank_Dust_Cap,Bicycle Crank Dust Cap,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/MC4_dust_cap/MC4_Solar_Dust_Covers___Caps___MC4_Solar_Staubkappen,Mc4 Solar Dust Covers   Caps   Mc4 Solar Staubkappen,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/MC4_dust_cap/Parametric_BNC_dust_cap,Parametric Bnc Dust Cap,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/MC4_dust_cap/USB-A_Male_Flexible_Dust_Cap,Usb A Male Flexible Dust Cap,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/fuse_holder_mount/ANL_Fuse_Holder,Anl Fuse Holder,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/fuse_holder_mount/Car_fuse_holder_for_PCB_mounting,Car Fuse Holder For Pcb Mounting,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/fuse_holder_mount/Fuse_Holder,Fuse Holder,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/fuse_holder_mount/Fuse_holder,Fuse Holder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/fuse_holder_mount/Motorcycle_fuse_holder,Motorcycle Fuse Holder,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/project_box/Basic_project_box,Basic Project Box,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/project_box/Project_Box,Project Box,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/project_box/Project_box,Project Box,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/project_box/Universal_Project_Box,Universal Project Box,7,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/solar_cable_clip/Cable_Clip,Cable Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/solar_cable_clip/Cable_Clip_organizer,Cable Clip Organizer,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/solar_cable_clip/Cable_clip,Cable Clip,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/solar_cable_clip/Earphone_Cable_Clip,Earphone Cable Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/solar_cable_clip/PTFE_cable_clip,Ptfe Cable Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/strain_relief_bracket/Anet_E10__Cable_strain_relief_for_heatbed,Anet E10  Cable Strain Relief For Heatbed,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/strain_relief_bracket/Creality_CR-10_Strain_relief_bracket_for_heated_bed_cable,Creality Cr 10 Strain Relief Bracket For Heated Bed Cable,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/strain_relief_bracket/Ender-5_Bed_Strain_Relief,Ender 5 Bed Strain Relief,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/strain_relief_bracket/Ender_5_Bed_Strain_Relief_-_Improved,Ender 5 Bed Strain Relief   Improved,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/strain_relief_bracket/Tevo_Tornado_Strain_Relief,Tevo Tornado Strain Relief,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/zip_tie_mount/Customizable_Cable_Tie,Customizable Cable Tie,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/zip_tie_mount/GoPro_Zip_Tie_mount_2,Gopro Zip Tie Mount 2,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/zip_tie_mount/Zip_tie,Zip Tie,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/zip_tie_mount/Zip_tie_Mount_Gopro,Zip Tie Mount Gopro,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Low-voltage___Solar/zip_tie_mount/Zip_tie_mount__20_mm_,Zip Tie Mount  20 Mm ,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_bend_support/17_mm_PEX_Pipe_bend,17 Mm Pex Pipe Bend,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_bend_support/90__bend_for__22mm_PVC_Pipe_Weld_-Better_Support,90  Bend For  22Mm Pvc Pipe Weld  Better Support,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_bend_support/PEX_Clips_-_90__and_straight,Pex Clips   90  And Straight,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_bend_support/Pex_Wreath_Support,Pex Wreath Support,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_pipe_clip/Offset_Pipe_Clip___Cable_Clip_all_sizes,Offset Pipe Clip   Cable Clip All Sizes,41,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_pipe_clip/PEX_Pipe_Mount,Pex Pipe Mount,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_pipe_clip/PVC_Pipe_3_4___1__OD__U_Clip__Hangers____Joiner_-_Holds_fabric__cloth__hanging_items,Pvc Pipe 3 4   1  Od  U Clip  Hangers    Joiner   Holds Fabric  Cloth  Hanging Items,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_pipe_clip/Pipe_Clip___Cable_Clip_-_Customizer,Pipe Clip   Cable Clip   Customizer,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/PEX_pipe_clip/Pipe_Clip___Cable_Clip_20mm_to_60mm_all_sizes,Pipe Clip   Cable Clip 20Mm To 60Mm All Sizes,41,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/tubing_label_tag/Cable_Label___Cable_Tag,Cable Label   Cable Tag,19,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/tubing_label_tag/Customizer_Version_of_luggage_label,Customizer Version Of Luggage Label,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/PEX___Tubing/tubing_label_tag/Key_Ring_Tag_Label,Key Ring Tag Label,7,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/camera_mount/Camera_Arm_-_Standard_Tripod_Mount,Camera Arm   Standard Tripod Mount,7,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/camera_mount/Ender_3_Webcam_mount,Ender 3 Webcam Mount,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/camera_mount/Prusa_i3_MK3_logitech_C270_camera_mount.,Prusa I3 Mk3 Logitech C270 Camera Mount.,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/camera_mount/Universal_iPhone_camera_mount,Universal Iphone Camera Mount,8,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/sensor_weather_hood/Kestrel_Weather_Sensor_Wind_Vane,Kestrel Weather Sensor Wind Vane,7,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/sensor_weather_hood/Radiation___Weather_shield_for_Netatmo_outdoor_sensor,Radiation   Weather Shield For Netatmo Outdoor Sensor,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/sensor_weather_hood/Weather_station_wind_direction_sensor,Weather Station Wind Direction Sensor,6,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/sensor_weather_hood/eNVIRO_sense__outdoor_wireless_weather_station_sensor_with_Stevenson_screen,Enviro Sense  Outdoor Wireless Weather Station Sensor With Stevenson Screen,14,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/tripod_adapter/GoPro_Tripod_Adapter,Gopro Tripod Adapter,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/tripod_adapter/Smartphone_Tripod_Adapter,Smartphone Tripod Adapter,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/tripod_adapter/TriK_Tripod_Adapter_for_the_Kinect,Trik Tripod Adapter For The Kinect,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Sensors___Cameras/tripod_adapter/Tripod_adapter_for_Kinect,Tripod Adapter For Kinect,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/grommet/Customizable_Wire_Access_Grommet,Customizable Wire Access Grommet,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/hitch_pin_holder/Hairpin_Cotter_Pin_R_Clip_Hitch_Pin,Hairpin Cotter Pin R Clip Hitch Pin,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/hitch_pin_holder/Hitch_Cover_Pin,Hitch Cover Pin,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/panel_clip/Auto_Panel_Clip,Auto Panel Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/panel_clip/Car_Panel_Clip,Car Panel Clip,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/panel_clip/Door_Panel_Remover___Clip_Remover,Door Panel Remover   Clip Remover,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/panel_clip/Panel_Clip,Panel Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/panel_clip/Vehicle_Door_Panel_trim_clip_V4_Final,Vehicle Door Panel Trim Clip V4 Final,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/trailer_plug_dust_cap/2.5in_x2.5in_14_Ga__.083in__Square_Tubing_End_Cap_-__Carry-On_Trailer_,2.5In X2.5In 14 Ga  .083In  Square Tubing End Cap    Carry On Trailer ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/trailer_plug_dust_cap/7Pin_trailer_plug_cap,7Pin Trailer Plug Cap,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/trailer_plug_dust_cap/RCA_cinch_dust_plug_cap,Rca Cinch Dust Plug Cap,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/trailer_plug_dust_cap/Trailer_hub_dust_cap,Trailer Hub Dust Cap,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Trailer___Vehicle_utility/trailer_plug_dust_cap/USB_Type-C_dust_plug,Usb Type C Dust Plug,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/bucket_to_hose_adapter/3D-printable_faucet-to-hose_adapter,3D Printable Faucet To Hose Adapter,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/bucket_to_hose_adapter/Bucket_hose_adapter_connector,Bucket Hose Adapter Connector,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/bucket_to_hose_adapter/Hose_to_Bathroom_sink_adapter,Hose To Bathroom Sink Adapter,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/bucket_to_hose_adapter/Shower_hose_adapter_for_filling_containers,Shower Hose Adapter For Filling Containers,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_irrigation_stake/Drip_Irrigation_Ring,Drip Irrigation Ring,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_irrigation_stake/Drip_Irrigation_System_-_Rain_Bird__R____Gardena_Microdrip__R__Compatible,Drip Irrigation System   Rain Bird  R    Gardena Microdrip  R  Compatible,16,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_irrigation_stake/Drip_irrigation,Drip Irrigation,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_irrigation_stake/Irrigation_Stakes,Irrigation Stakes,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_irrigation_stake/Water_Bottle_Drip_Irrigation_System,Water Bottle Drip Irrigation System,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_line_clip/1_4__.25_Drip_line_irrigation_tubing_stake,1 4  .25 Drip Line Irrigation Tubing Stake,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_line_clip/4mm_drip_line_T_connector,4Mm Drip Line T Connector,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_line_clip/Drip_Irrigation_Pot_Clip,Drip Irrigation Pot Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/drip_line_clip/Irrigation_Hose_and_Drip_Line_Clips,Irrigation Hose And Drip Line Clips,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/emitter_punch_tool_handle/Leather_Working_Detachable_Card_Slot_Punch_Tool_Handle,Leather Working Detachable Card Slot Punch Tool Handle,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/emitter_punch_tool_handle/Mosin_Nagaunt_Striker_pin_punch_probe_tool_handle,Mosin Nagaunt Striker Pin Punch Probe Tool Handle,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/emitter_punch_tool_handle/Punch_Tool_Handle,Punch Tool Handle,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/emitter_punch_tool_handle/Umarex_CO2_Punch_Button_Pressure_Tool,Umarex Co2 Punch Button Pressure Tool,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_cap/Garden_Hose,Garden Hose,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_cap/Garden_Hose_Cap,Garden Hose Cap,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_cap/Garden_Hose_Hanger,Garden Hose Hanger,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_cap/Garden_Hose_Holder,Garden Hose Holder,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_cap/Garden_hose_Coupler,Garden Hose Coupler,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_quick_connect/Garden_hose_gardena_quick_connect_release_female,Garden Hose Gardena Quick Connect Release Female,9,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_quick_connect/Garden_hose_quick_connect_coupler_-_male_to_male,Garden Hose Quick Connect Coupler   Male To Male,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_quick_connect/Nut_for_garden_hose_quick_connect,Nut For Garden Hose Quick Connect,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_quick_connect/Quick_garden_male_connector_into_hose_13mm,Quick Garden Male Connector Into Hose 13Mm,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_quick_connect/Water_diffuser_for_garden,Water Diffuser For Garden,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_washer_retainer/Carwash_Hose_Guide_Roller_Wheel_Chock_for_18__Wheel_Tire,Carwash Hose Guide Roller Wheel Chock For 18  Wheel Tire,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_washer_retainer/Garden_Hose_Washer,Garden Hose Washer,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_washer_retainer/Garden_Hose_to_Pressure_Washer,Garden Hose To Pressure Washer,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/garden_hose_washer_retainer/WORKZONE_PRESSURE_WASHER_HOSE_CONNECTOR,Workzone Pressure Washer Hose Connector,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/goof_plug_organizer/8mm_Spark_Plug_Wire_Organizer___Loom,8Mm Spark Plug Wire Organizer   Loom,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/goof_plug_organizer/Drip_Irrigation_Goof_Plug,Drip Irrigation Goof Plug,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/goof_plug_organizer/Drip_irrigation_goof_plug,Drip Irrigation Goof Plug,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/goof_plug_organizer/plug_organizer__EU_Schukostecker_Organizer,Plug Organizer  Eu Schukostecker Organizer,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_Barel_Overflow_Spout,Rain Barel Overflow Spout,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_Barrel_4X6_Overflow,Rain Barrel 4X6 Overflow,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_Collector___Regensammler,Rain Collector   Regensammler,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_barrel_diverter___leaves_filter___on_off_option,Rain Barrel Diverter   Leaves Filter   On Off Option,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/rain_barrel_overflow_adapter/Water_Crane_Adapter,Water Crane Adapter,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/rain_barrel_screen_ring/Downspout_Leaf_Filter__Diverter__for_Rain_Barrel,Downspout Leaf Filter  Diverter  For Rain Barrel,9,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Water___Irrigation/rain_barrel_screen_ring/Rain_Barrel_Water_Diverter_for_2-5_8__square_downspout,Rain Barrel Water Diverter For 2 5 8  Square Downspout,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/center_finder_jig/Center_Finder,Center Finder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/center_finder_jig/Center_Finder_For_Edges_Set,Center Finder For Edges Set,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/center_finder_jig/Center_Jig,Center Jig,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/center_finder_jig/Center_finder__square_round_,Center Finder  Square Round ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/center_finder_jig/Cylinder_Center_Finder,Cylinder Center Finder,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_bit_organizer/Drill_Bit_Organizer,Drill Bit Organizer,6,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_bit_organizer/Drill_Bit_Organizer_Trays,Drill Bit Organizer Trays,8,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_bit_organizer/Drill_Driver_Bit_Attachment,Drill Driver Bit Attachment,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_bit_organizer/Drill_bit_organizer,Drill Bit Organizer,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_bit_organizer/Drill_bit_sharpener,Drill Bit Sharpener,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_guide/DeWalt_Drill_Guide,Dewalt Drill Guide,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_guide/Drill_Guide_Dremel,Drill Guide Dremel,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_guide/Multi_Angle_Drill_Guide,Multi Angle Drill Guide,6,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/drill_guide/Serious_Straight_Drill_Guide_Jig,Serious Straight Drill Guide Jig,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/sanding_block/Mini_Sanding_Block,Mini Sanding Block,8,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/sanding_block/Sanding_Block,Sanding Block,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/sanding_block/Sanding_block,Sanding Block,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/sanding_block/Screwless_EASY_SANDING_BLOCK,Screwless Easy Sanding Block,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/socket_organizer/Craftsman_Socket_Organizer,Craftsman Socket Organizer,30,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/socket_organizer/Customizable_Socket_Organizer,Customizable Socket Organizer,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/socket_organizer/Socket_Organizer,Socket Organizer,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/socket_organizer/Socket_Organizer_Set,Socket Organizer Set,11,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/socket_organizer/Socket_organizer,Socket Organizer,11,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/soft_vise_jaw/Jaw_set_for_vise,Jaw Set For Vise,7,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/soft_vise_jaw/Vise_Soft_Jaws,Vise Soft Jaws,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/soft_vise_jaw/Vise_grip_soft_jaw,Vise Grip Soft Jaw,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/soft_vise_jaw/Vise_soft_Jaw_cover,Vise Soft Jaw Cover,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/soft_vise_jaw/Vise_soft_jaw_strips,Vise Soft Jaw Strips,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/spacer_shim_washer/Customizable_Washer___Screw_Spacer,Customizable Washer   Screw Spacer,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/spacer_shim_washer/Parametric_Washer_Spacer,Parametric Washer Spacer,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/spacer_shim_washer/Parametric_push_fit_spacer___washer___circlip,Parametric Push Fit Spacer   Washer   Circlip,17,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/spacer_shim_washer/Pegboard_Mount__Spacer___Washer,Pegboard Mount  Spacer   Washer,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/spacer_shim_washer/Z-Axis_shim_spacer_for_2016_FlashForge_Creator_Pro__for_glass_bed__customizable_,Z Axis Shim Spacer For 2016 Flashforge Creator Pro  For Glass Bed  Customizable ,6,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/star_knob/Death_Star_Falcon_rotary_knob_for_6mm_shaft_Creality_Ender_3_5__CR-10__CR-20,Death Star Falcon Rotary Knob For 6Mm Shaft Creality Ender 3 5  Cr 10  Cr 20,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/star_knob/Smooth_n__Curvy_Star_Knob__Customizable_,Smooth N  Curvy Star Knob  Customizable ,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/star_knob/Star_Knob_M6_Gamm,Star Knob M6 Gamm,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/star_knob/Star_knob_M8,Star Knob M8,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/star_knob/Strong_M12_M10_M8_star_knob_with_locked_nut,Strong M12 M10 M8 Star Knob With Locked Nut,7,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/thumb_screw_knob/Bed_Leveling_Thumb_Screw,Bed Leveling Thumb Screw,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/thumb_screw_knob/Ender_3___3_pro_z_lead_screw_speed_knob,Ender 3   3 Pro Z Lead Screw Speed Knob,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/thumb_screw_knob/Screw_Caps,Screw Caps,6,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/thumb_screw_knob/Screw_knob,Screw Knob,10,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/thumb_screw_knob/gopro_thumb_screw,Gopro Thumb Screw,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/tool_wall_hook/Ego_Blower_wall_mount,Ego Blower Wall Mount,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/tool_wall_hook/Happy_skateboard_wall_hook,Happy Skateboard Wall Hook,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/tool_wall_hook/WALL_HOOK,Wall Hook,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
-models/Workshop/tool_wall_hook/Wide_Wall_Hook,Wide Wall Hook,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.00,NEEDS REVIEW
+models/01_Water_Hose_Irrigation/1_4_ Goof_Oops Plug,"1/4"" Goof/Oops Plug",2,thingiverse,https://www.thingiverse.com/thing:2867143,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.57,AUTO-FILLED
+models/01_Water_Hose_Irrigation/Collection of Hose Pipe Brackets _ Standoffs,Collection Of Hose Pipe Brackets   Standoffs,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.32,NEEDS REVIEW
+models/01_Water_Hose_Irrigation/Garden Hose Cap _GHT female_,Garden Hose Cap (GHT female),1,thingiverse,https://www.thingiverse.com/thing:3577413,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.52,AUTO-FILLED
+models/01_Water_Hose_Irrigation/Hose Connector _rain barrel gravity feed_,Hose Connector (rain barrel gravity feed),2,thingiverse,https://www.thingiverse.com/thing:4746322,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,1.06,AUTO-FILLED
+models/01_Water_Hose_Irrigation/Irrigation Hose Clip - 1_4 inch tube stake _tall_,Irrigation Hose Clip - 1/4 inch tube stake (tall),1,thingiverse,https://www.thingiverse.com/thing:4356090,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.74,AUTO-FILLED
+models/01_Water_Hose_Irrigation/Rain Barrel Hose Adapter _low pressure_,Hose Connector (rain barrel gravity feed),2,thingiverse,https://www.thingiverse.com/thing:4746322,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.55,AUTO-FILLED
+models/02_PEX_Tubing_NonPressure/PEX Clips 90-degree and straight _1_2 inch_,PEX Clips 90-degree and straight (1/2 inch),2,thingiverse,https://www.thingiverse.com/thing:6481491,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.70,AUTO-FILLED
+models/03_Garden_Greenhouse/BedHIVE 3D Printable Raised Bed Corners,BedHIVE: 3D Printable Raised Garden Bed Corners,1,thingiverse,https://www.thingiverse.com/thing:7301724,UNKNOWN / NEEDS REVIEW,CC BY-NC-ND 4.0,_archive/scraper_bootstrap/manifests/license_audit.csv,0.66,AUTO-FILLED
+models/03_Garden_Greenhouse/BedHIVE Raised Garden Bed Corners,BedHIVE Raised Garden Bed Corners,1,thingiverse,https://www.thingiverse.com/thing:7301724,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.85,AUTO-FILLED
+models/03_Garden_Greenhouse/Plant Label Stakes _customizable text_,Plant Label Stakes  Customizable Text ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.42,AUTO-FILLED
+models/03_Garden_Greenhouse/Seed Spacing Ruler 300mm,Seed Spacing Ruler 300Mm,5,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.19,NEEDS REVIEW
+models/04_Buckets_Barrels_Storage/5-Gallon Bucket Handle Replacement,5-Gallon Bucket Handle Replacement,5,thingiverse,https://www.thingiverse.com/thing:4342063,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.64,AUTO-FILLED
+models/04_Buckets_Barrels_Storage/5-Gallon Bucket Lid Opener Tool,5-Gallon Bucket Lid Opener Tool,2,thingiverse,https://www.thingiverse.com/thing:3884304,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,0.53,AUTO-FILLED
+models/04_Buckets_Barrels_Storage/High Strength Bag Clip 100mm and 160mm,High Strength Bag Clip 100mm and 160mm,6,thingiverse,https://www.thingiverse.com/thing:4889939,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,0.65,AUTO-FILLED
+models/04_Buckets_Barrels_Storage/Mason Jar Sprouting Lid 2-piece _wide_,Mason Jar Sprouting Lid 2-piece wide,2,thingiverse,https://www.thingiverse.com/thing:3624141,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,1.05,AUTO-FILLED
+models/04_Buckets_Barrels_Storage/Mason Jar Sprouting Lid 2-piece wide,Mason Jar Sprouting Lid 2-piece wide,2,thingiverse,https://www.thingiverse.com/thing:3624141,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,1.05,AUTO-FILLED
+models/05_Workshop_Repair_Hardware/13-Slot Drill Bit Index Stand,13 Slot Drill Bit Index Stand,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.41,AUTO-FILLED
+models/05_Workshop_Repair_Hardware/French Cleat Tool Holder Customizable OpenSCAD,French Cleat Tool Holder Customizable OpenSCAD,9,thingiverse,https://www.thingiverse.com/thing:2993909,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.64,AUTO-FILLED
+models/05_Workshop_Repair_Hardware/French Cleat Tool Wall Hook Set,French Cleat Tool Wall Hook Set,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.42,AUTO-FILLED
+models/05_Workshop_Repair_Hardware/M5 Spacer Assortment _3-20mm heights_,M5 Spacer Assortment  3 20Mm Heights ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.30,NEEDS REVIEW
+models/05_Workshop_Repair_Hardware/Sanding Block quarter sheet 3M fit,Mason Jar Sprouting Lid Wide and Standard,3,printables,https://www.printables.com/model/65895-mason-jar-sprouting-lid,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.79,AUTO-FILLED
+models/05_Workshop_Repair_Hardware/Sandpaper Block Quarter Sheet,Sandpaper Block Quarter Sheet,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.38,AUTO-FILLED
+models/06_Electrical_Solar_LowVoltage/Battery Terminal Positive Cover _M10 stud_,Battery Terminal Positive Cover  M10 Stud ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.36,AUTO-FILLED
+models/06_Electrical_Solar_LowVoltage/Universal Project Box 80x50x25 _parametric_,Universal Project Box 80X50X25  Parametric ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.35,AUTO-FILLED
+models/07_Chicken_Coop_Livestock/Bucket Feeder PVC Bracket,Bucket Feeder Pvc Bracket,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.35,AUTO-FILLED
+models/07_Chicken_Coop_Livestock/Poultry Nipple Wrench _horizontal install_,Poultry Nipple Wrench  Horizontal Install ,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.41,AUTO-FILLED
+models/07_Chicken_Coop_Livestock/T-Post Electric Fence Insulator Clip,T-Post Electric Fence Insulator Clip,1,printables,https://www.printables.com/model/289450,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.72,AUTO-FILLED
+models/08_Vehicle_Trailer_Utility/7-Pin Round Trailer Connector Dust Cap,7-Pin Round Trailer Connector Dust Cap,3,printables,https://www.printables.com/model/504917,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.76,AUTO-FILLED
+models/08_Vehicle_Trailer_Utility/Hitch Pin Clip Keeper,Hitch Pin Clip Keeper,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.41,AUTO-FILLED
+models/09_Radio_Comms_Sensors/Dipole Center Feed Insulator,Dipole Center Feed Insulator,1,thingiverse,https://www.thingiverse.com/thing:175331,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,0.53,AUTO-FILLED
+models/09_Radio_Comms_Sensors/Egg End Insulator _wire antenna_,Egg End Insulator wire antenna,1,thingiverse,https://www.thingiverse.com/thing:3557846,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,1.03,AUTO-FILLED
+models/09_Radio_Comms_Sensors/Egg End Insulator wire antenna,Egg End Insulator wire antenna,1,thingiverse,https://www.thingiverse.com/thing:3557846,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,1.03,AUTO-FILLED
+models/99_Calibration_Test_Prints/20mm XYZ Calibration Cube,20mm XYZ Calibration Cube,1,thingiverse,https://www.thingiverse.com/thing:1278865,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.62,AUTO-FILLED
+models/99_Calibration_Test_Prints/Smart Temperature Tower PLA PETG ABS,Smart Temperature Tower PLA PETG ABS,26,thingiverse,https://www.thingiverse.com/thing:2729076,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,0.56,AUTO-FILLED
+models/99_Calibration_Test_Prints/Temperature Tower 180-230C,Temperature Tower 180 230C,26,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,No CSV match found,0.15,NEEDS REVIEW
+models/Buckets___Food_Storage/5_gallon_bucket_handle/5_Gallon_Bucket_handle,5 Gallon Bucket Handle,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.95,AUTO-FILLED
+models/Buckets___Food_Storage/5_gallon_bucket_handle/5_Gallon_Pail_Handle,5 Gallon Pail Handle,2,thingiverse,"https://www.thingiverse.com/thing:6584949
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Buckets___Food_Storage/5_gallon_bucket_handle/5___6_Gallon_Bucket_Spacer,5   6 Gallon Bucket Spacer,2,thingiverse,"https://www.thingiverse.com/thing:3985841
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Buckets___Food_Storage/5_gallon_bucket_handle/Lowes_and_Home_Depot_5_Gallon_Bucket_Can_Coozies,Lowes And Home Depot 5 Gallon Bucket Can Coozies,3,thingiverse,"https://www.thingiverse.com/thing:5744124
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.19,AUTO-FILLED
+models/Buckets___Food_Storage/5_gallon_bucket_handle/one10rc_5_Gallon_Bucket_1_10_v2,One10Rc 5 Gallon Bucket 1 10 V2,1,thingiverse,"https://www.thingiverse.com/thing:3808050
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Buckets___Food_Storage/bag_clip_heavy_duty/Clip_rotary_unlocking,Clip Rotary Unlocking,1,thingiverse,"https://www.thingiverse.com/thing:2893392
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Buckets___Food_Storage/bag_clip_heavy_duty/Crinkle_-_Reusable_Chip_Clip_and_Clothespin___Heavy_Duty,Crinkle - Reusable Chip Clip and Clothespin – Heavy Duty,1,thingiverse,https://www.thingiverse.com/thing:3768443,nickleyw,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,0.65,AUTO-FILLED
+models/Buckets___Food_Storage/bag_clip_heavy_duty/Heavy_Duty_Carabiner,Heavy Duty Carabiner,1,thingiverse,"https://www.thingiverse.com/thing:4550466
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.15,AUTO-FILLED
+models/Buckets___Food_Storage/bag_clip_heavy_duty/Heavy_duty_bags_Holder,Heavy Duty Bags Holder,1,thingiverse,"https://www.thingiverse.com/thing:407592
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Buckets___Food_Storage/bag_clip_heavy_duty/Pegboard_Heavy-Duty_Hanging_Bin_Clip,Pegboard Heavy Duty Hanging Bin Clip,2,thingiverse,"https://www.thingiverse.com/thing:1540038
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Buckets___Food_Storage/bucket_clip_hook/5_gallon_bucket_lid_clip,5 Gallon Bucket Lid Clip,1,thingiverse,"https://www.thingiverse.com/thing:4713185
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Buckets___Food_Storage/bucket_clip_hook/Billy_clip_hook,Billy Clip Hook,1,thingiverse,"https://www.thingiverse.com/thing:92933
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.68,AUTO-FILLED
+models/Buckets___Food_Storage/bucket_clip_hook/bucket_hook,bucket hook,2,thingiverse,https://cdn.thingiverse.com/assets/80/17/3c/a1/76/tapered_bucket_hook.png,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.94,AUTO-FILLED
+models/Buckets___Food_Storage/bucket_lid_opener/5_Gallon_Lid_Opener-food_paint_bucket_can_pail_tool,5 Gallon Lid Opener Food Paint Bucket Can Pail Tool,1,thingiverse,"https://www.thingiverse.com/thing:652017
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Buckets___Food_Storage/bucket_lid_opener/Bucket_Opener,Bucket Opener,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,1.34,AUTO-FILLED
+models/Buckets___Food_Storage/bucket_lid_opener/Can_opener_and_lid,Can Opener And Lid,3,thingiverse,"https://www.thingiverse.com/thing:5401711
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Buckets___Food_Storage/bucket_lid_opener/Gamma_Seal_Lid_Opener,Gamma Seal Lid Opener,1,thingiverse,"https://www.thingiverse.com/thing:6541123
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Buckets___Food_Storage/jar_funnel/Jar_funnel,Jar Funnel,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,1.63,AUTO-FILLED
+models/Buckets___Food_Storage/jar_funnel/Mason_Jar_Filter_Funnel,Mason Jar Filter Funnel,2,thingiverse,"https://www.thingiverse.com/thing:5404470
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Buckets___Food_Storage/jar_funnel/Mason_Jar_Funnel,Mason Jar Funnel,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,1.31,AUTO-FILLED
+models/Buckets___Food_Storage/jar_funnel/funnel_for_spice_jar,Funnel For Spice Jar,1,thingiverse,"https://www.thingiverse.com/thing:3018579
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_sprouting_lid/Canning_Jar_Sprouting_Lid,Canning Jar Sprouting Lid,3,thingiverse,"https://www.thingiverse.com/thing:28429
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_sprouting_lid/Fruit_Fly_Trap_Jar_Lid,Fruit Fly Trap Jar Lid,3,thingiverse,"https://www.thingiverse.com/thing:19257
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_sprouting_lid/Mason_Jar_Lid_Holder,Mason Jar Lid Holder,4,thingiverse,"https://www.thingiverse.com/thing:3104717
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.72,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_sprouting_lid/Mason_Jar_Lid_Keeper,Mason Jar Lid Keeper,3,thingiverse,"https://www.thingiverse.com/thing:4356934
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_sprouting_lid/Sprouting_jar_lid,Sprouting Jar Lid,4,thingiverse,"https://www.thingiverse.com/thing:4081776
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_storage_cap/Canning_Jar_Lids,Canning Jar Lids,3,thingiverse,"https://www.thingiverse.com/thing:19105
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.12,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_storage_cap/Mason_Jar_Lid_Keeper,Mason Jar Lid Keeper,3,thingiverse,"https://www.thingiverse.com/thing:4356934
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.72,AUTO-FILLED
+models/Buckets___Food_Storage/mason_jar_storage_cap/graduation_mason_jar_cap,Graduation Mason Jar Cap,1,thingiverse,"https://www.thingiverse.com/thing:864209
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.83,AUTO-FILLED
+models/Comms/ESP32_case/ESP32-CAM_case,ESP32-CAM case,4,thingiverse,https://www.thingiverse.com/thing:3463679,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Comms/ESP32_case/ESP32_DevKit_Case,ESP32 DevKit Case,2,thingiverse,https://www.thingiverse.com/thing:4125952,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Comms/ESP32_case/ESP32_devkit_case,Esp32 Devkit Case,3,thingiverse,"https://www.thingiverse.com/thing:4564452
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.04,AUTO-FILLED
+models/Comms/ESP32_case/Esp32_wroom_case,Esp32 wroom case,4,thingiverse,https://www.thingiverse.com/thing:4667813,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Comms/ESP32_case/esp32-case,Mason Jar Sprouting Lid Wide and Standard,7,printables,https://www.printables.com/model/65895-mason-jar-sprouting-lid,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,1.46,AUTO-FILLED
+models/Comms/Meshtastic_Heltec_V3_case/Heltec_LoRa32_V3_case_with_NEO-7M_GPS_module__103665_battery__and_buzzer,"Heltec LoRa32 V3 case with NEO-7M GPS module, 103665 battery, and buzzer",4,thingiverse,https://cdn.thingiverse.com/assets/ba/a3/ec/64/a4/nodeM2.jpg,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.90,AUTO-FILLED
+models/Comms/Meshtastic_Heltec_V3_case/Heltec_V2_and_V3_Meshtastic_Lora_case,Heltec V2 and V3 Meshtastic Lora case,10,thingiverse,https://www.thingiverse.com/thing:6522462,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Comms/Meshtastic_Heltec_V3_case/Heltec_V3_OLED_LoRa_Case,Heltec V3 OLED LoRa Case,9,thingiverse,https://www.thingiverse.com/thing:6254608,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.74,AUTO-FILLED
+models/Comms/Meshtastic_Heltec_V3_case/Heltec_v3_lora_meshtastic_no_screw_case,Heltec v3 lora meshtastic no screw case,4,thingiverse,https://www.thingiverse.com/thing:7265764,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Comms/Meshtastic_Heltec_V3_case/Meshtastic_Heltec_V3_Case,Meshtastic Heltec V3 Case,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.87,AUTO-FILLED
+models/Comms/RTL_SDR_case/RTL-SDR_Cooler,RTL-SDR Cooler,2,thingiverse,https://www.thingiverse.com/thing:1981419,UNKNOWN / NEEDS REVIEW,CC BY-NC-ND 4.0,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
+models/Comms/RTL_SDR_case/RTL-SDR_Dongle_Case,Rtl Sdr Dongle Case,2,thingiverse,"https://www.thingiverse.com/thing:768282
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.33,AUTO-FILLED
+models/Comms/RTL_SDR_case/RTL-SDR_support,RTL-SDR support,1,thingiverse,https://www.thingiverse.com/thing:2281359,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.93,AUTO-FILLED
+models/Comms/RTL_SDR_case/RTL_SDR_Antenna_Kit_Bracket,Rtl Sdr Antenna Kit Bracket,1,thingiverse,"https://www.thingiverse.com/thing:4391048
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Comms/RTL_SDR_case/Stratux_Nano_Dual_SDR_Case,Stratux Nano Dual SDR Case,2,thingiverse,https://www.thingiverse.com/thing:1707442,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Comms/antenna_wire_winder/Antenna_Wire_Winder,Antenna Wire Winder,3,thingiverse,"https://www.thingiverse.com/thing:5426901
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.22,AUTO-FILLED
+models/Comms/antenna_wire_winder/Ham_Radio_Dude_-_Wire_Winder___EFHW_Winder,Ham Radio Dude - Wire Winder / EFHW Winder,4,thingiverse,https://www.thingiverse.com/thing:6572758,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
+models/Comms/antenna_wire_winder/K6ARK_Ultralight_Antenna_Winder,K6ARK Ultralight Antenna Winder,1,thingiverse,https://www.thingiverse.com/thing:5426901,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Comms/antenna_wire_winder/Wire_Winder,Wire Winder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.82,AUTO-FILLED
+models/Comms/coax_pass_through_plate/Cable_Pass-Through_Wall_Plate,Cable Pass Through Wall Plate,1,thingiverse,"https://www.thingiverse.com/thing:4271396
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Comms/coax_pass_through_plate/Cable_Pass-through_Wall_Plate,Cable Pass Through Wall Plate,1,thingiverse,"https://www.thingiverse.com/thing:4271396
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Comms/coax_pass_through_plate/Cable_Pass_Through_Brush_Plate,Cable Pass Through Brush Plate,2,thingiverse,"https://www.thingiverse.com/thing:3538504
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Comms/coax_pass_through_plate/Cable_Pass_Through_Wall_Plate,Cable Pass Through Wall Plate,1,thingiverse,"https://www.thingiverse.com/thing:4271396
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Comms/coax_pass_through_plate/Wall_Plate_Cable_Pass_Through,Wall Plate Cable Pass Through,3,thingiverse,"https://www.thingiverse.com/thing:5176534
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.70,AUTO-FILLED
+models/Comms/dipole_center_insulator/Dipole_Antenna_Insulator_Block_-_k2fiq,Dipole Antenna Insulator Block - k2fiq,1,thingiverse,https://www.thingiverse.com/thing:299896,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Comms/dipole_center_insulator/Dipole_center_insulator,Dipole Center Insulator,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,1.17,AUTO-FILLED
+models/Comms/dipole_center_insulator/Top_of_the_Pole_-_Dipole_Antenna_Centre_Insulator,Top of the Pole - Dipole Antenna Centre Insulator,3,thingiverse,https://www.thingiverse.com/thing:894073,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Comms/dipole_center_insulator/Wire_dipole_insulator,Wire Dipole Insulator,1,thingiverse,"https://www.thingiverse.com/thing:7922
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Comms/dipole_center_insulator/dipole_center_connector_V2.0,dipole center connector V2.0,2,thingiverse,https://www.thingiverse.com/thing:2120885,UNKNOWN / NEEDS REVIEW,GPL,_archive/scraper_bootstrap/manifests/license_audit.csv,0.83,AUTO-FILLED
+models/Comms/end_insulator/Antenna_End_Insulator,"Antenna End Insulator (""Dog Bone"" Insulator)",1,thingiverse,https://www.thingiverse.com/thing:3557913,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Comms/end_insulator/Antenna_End_Insulator__Dog_Bone__Insulator_,"Antenna End Insulator (""Dog Bone"" Insulator)",1,thingiverse,https://cdn.thingiverse.com/assets/e4/6d/70/41/27/pic1h.JPG,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Comms/end_insulator/Antenna_wire_End_Insulator,Antenna Wire End Insulator,1,thingiverse,"https://www.thingiverse.com/thing:1740873
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Comms/end_insulator/End_wire_insulator,End Wire Insulator,3,thingiverse,"https://www.thingiverse.com/thing:6335858
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.72,AUTO-FILLED
+models/Comms/end_insulator/Universal_End_Insulator,Universal End Insulator,1,thingiverse,https://www.thingiverse.com/thing:2334960,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.93,AUTO-FILLED
+models/Comms/guy_line_tensioner/Guy_rope_tensioner,Guy Rope Tensioner,1,thingiverse,"https://www.thingiverse.com/thing:1318060
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Comms/guy_line_tensioner/RopeSnap_-_Tent_line_tensioner,Ropesnap   Tent Line Tensioner,2,thingiverse,"https://www.thingiverse.com/thing:3398911
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.70,AUTO-FILLED
+models/Comms/guy_line_tensioner/Tent_Guy_Line_Rope_Cinch-up,Tent Guy Line Rope Cinch Up,1,thingiverse,"https://www.thingiverse.com/thing:428956
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Greenhouse___Garden/greenhouse_clip/Greenhouse_Clip__customizable_,Greenhouse Clip  Customizable ,3,thingiverse,"https://www.thingiverse.com/thing:4562279
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Greenhouse___Garden/greenhouse_clip/Greenhouse_cable_clip_holder_OpenScad,Greenhouse Cable Clip Holder Openscad,2,thingiverse,"https://www.thingiverse.com/thing:3108591
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.83,AUTO-FILLED
+models/Greenhouse___Garden/greenhouse_clip/Greenhouse_frame_clip,Greenhouse frame clip,1,thingiverse,https://www.thingiverse.com/thing:850290,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
+models/Greenhouse___Garden/greenhouse_clip/Greenhouse_plant_hanger_attachment_clip,Greenhouse plant hanger attachment clip,1,thingiverse,https://www.thingiverse.com/thing:1029438,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Greenhouse___Garden/greenhouse_clip/U_Clip_For_Greenhouses,U Clip For Greenhouses,4,thingiverse,https://www.thingiverse.com/thing:26400,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Greenhouse___Garden/plant_label_stake/Customizable_Garden_Plant_Label_Sign,Customizable Garden Plant Label Sign,148,thingiverse,https://www.thingiverse.com/thing:4740308,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Greenhouse___Garden/plant_label_stake/Customizable_Nursery_Garden_Plant_Tag___Label_Stake_with_subtext,Customizable Nursery Garden Plant Tag / Label Stake with subtext,10,thingiverse,https://www.thingiverse.com/thing:4769257,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Greenhouse___Garden/plant_label_stake/Garden_Plant_Label,Garden Plant Label,1,thingiverse,"https://www.thingiverse.com/thing:4859282
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Greenhouse___Garden/plant_label_stake/Plant_Label,Plant Label,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,1.26,AUTO-FILLED
+models/Greenhouse___Garden/plant_label_stake/Plant_Label_Stake,Plant Label Stake,15,thingiverse,https://www.thingiverse.com/thing:783935,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
+models/Greenhouse___Garden/poly_tunnel_clamp/poly_tunnel_for_seeds,Poly Tunnel For Seeds,1,thingiverse,"https://www.thingiverse.com/thing:2235801
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Greenhouse___Garden/poly_tunnel_clamp/wood_train_montains_tunnel___low_poly___mountain_._brio___ikea_tunel,Wood Train Montains Tunnel   Low Poly   Mountain . Brio   Ikea Tunel,2,thingiverse,"https://www.thingiverse.com/thing:3220846
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Greenhouse___Garden/raised_bed_corner_bracket/Adjustable_glass_bed_corner_bracket,Adjustable Glass Bed Corner Bracket,2,thingiverse,"https://www.thingiverse.com/thing:1727267
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.83,AUTO-FILLED
+models/Greenhouse___Garden/raised_bed_corner_bracket/BedHIVE__3D_Printable_Raised_Garden_Bed_Corners,Bedhive  3D Printable Raised Garden Bed Corners,1,thingiverse,"https://www.thingiverse.com/thing:7301724
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.23,AUTO-FILLED
+models/Greenhouse___Garden/raised_bed_corner_bracket/Flashforge_Glass_Bed_Corner_Bracket,Flashforge Glass Bed Corner Bracket,2,thingiverse,https://www.thingiverse.com/thing:715545,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Greenhouse___Garden/raised_bed_corner_bracket/Raised_bed_garden_corner_bracket,Raised bed garden corner bracket,1,thingiverse,https://www.thingiverse.com/thing:967925,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.93,AUTO-FILLED
+models/Greenhouse___Garden/seed_spacing_ruler/Seed_Spacing_Template_-_Seed_Spacing_Tool_-_Gardening_Tool,Seed Spacing Template - Seed Spacing Tool - Gardening Tool,1,thingiverse,https://www.thingiverse.com/thing:7286130,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.93,AUTO-FILLED
+models/Greenhouse___Garden/seed_spacing_ruler/Short_Seed_Ruler__Ruler,"Short Seed Ruler, Ruler",1,thingiverse,https://www.thingiverse.com/thing:2778013,djwusubby,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,0.92,AUTO-FILLED
+models/Greenhouse___Garden/seed_spacing_ruler/SpacingHIVE_-_GrowHIVE_Seed_Spacing_Gardening_Tool,Spacinghive   Growhive Seed Spacing Gardening Tool,1,thingiverse,"https://www.thingiverse.com/thing:7290040
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.22,AUTO-FILLED
+models/Greenhouse___Garden/shade_cloth_clip/PVC_Pipe_3_4___1__OD__U_Clip__Hangers____Joiner_-_Holds_fabric__cloth__hanging_items,"PVC Pipe 3/4"" (1"" OD) U Clip, Hangers, & Joiner - Holds fabric, cloth, hanging items",5,thingiverse,https://www.thingiverse.com/thing:1995676,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.90,AUTO-FILLED
+models/Greenhouse___Garden/shade_cloth_clip/Shade_cloth_fence_holder,Shade cloth fence holder,2,thingiverse,https://www.thingiverse.com/thing:6546101,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
+models/Greenhouse___Garden/shade_cloth_clip/Table_Cloth_Clip,Table Cloth Clip,2,thingiverse,"https://www.thingiverse.com/thing:1588741
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.11,AUTO-FILLED
+models/Greenhouse___Garden/tomato_twine_clip/Simple_plant_clip_V2,Simple Plant Clip V2,1,thingiverse,"https://www.thingiverse.com/thing:4847634
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.15,AUTO-FILLED
+models/Greenhouse___Garden/tomato_twine_clip/Tomato_Clip,Tomato Clip,2,thingiverse,"https://www.thingiverse.com/thing:4430927
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Greenhouse___Garden/tomato_twine_clip/Tomato_clip_on_wire_or_trellis_for_plants,Tomato Clip On Wire Or Trellis For Plants,1,thingiverse,"https://www.thingiverse.com/thing:5398718
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.21,AUTO-FILLED
+models/Greenhouse___Garden/tomato_twine_clip/Tomato_trellis_clip,Tomato Trellis Clip,1,thingiverse,"https://www.thingiverse.com/thing:2459321
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Greenhouse___Garden/tomato_twine_clip/Trellis_Clip,Trellis Clip,2,thingiverse,https://www.thingiverse.com/thing:2515402,Aaronblue,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,0.93,AUTO-FILLED
+models/Greenhouse___Garden/trellis_clip/Garden_String_Clip,Garden String Clip,2,thingiverse,https://www.thingiverse.com/thing:1613155,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Greenhouse___Garden/trellis_clip/Grow_Tent_Hangar_Clip_for_16mm_Poles_-_great_for_trellis_supports,Grow Tent Hangar Clip for 16mm Poles - great for trellis supports,1,thingiverse,https://cdn.thingiverse.com/assets/09/43/19/90/9c/Tent_Hangar_v1.png,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.92,AUTO-FILLED
+models/Greenhouse___Garden/trellis_clip/Tomato_clip_on_wire_or_trellis_for_plants,Tomato clip on wire or trellis for plants,1,thingiverse,https://www.thingiverse.com/thing:5398718,id2Pat,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,1.07,AUTO-FILLED
+models/Greenhouse___Garden/trellis_clip/Tomato_trellis_clip,Tomato trellis clip,1,thingiverse,https://www.thingiverse.com/thing:2459321,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.60,AUTO-FILLED
+models/Greenhouse___Garden/trellis_clip/Trellis_Clip,Trellis Clip,2,thingiverse,https://www.thingiverse.com/thing:2515402,Aaronblue,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,0.89,AUTO-FILLED
+models/Livestock___Coop/PVC_feeder_bracket/3_4_Inch_PVC_Desk_Mounts___Customizable,3/4 Inch PVC Desk Mounts | Customizable,1,thingiverse,https://www.thingiverse.com/thing:5553413,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.83,AUTO-FILLED
+models/Livestock___Coop/PVC_feeder_bracket/Chicken_Feeder_PVC_adapter,Chicken Feeder Pvc Adapter,1,thingiverse,"https://www.thingiverse.com/thing:2897601
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Livestock___Coop/PVC_feeder_bracket/Chicken_feeder_PVC_100mm,Chicken Feeder Pvc 100Mm,1,thingiverse,"https://www.thingiverse.com/thing:3426151
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Livestock___Coop/PVC_feeder_bracket/PVC_Chicken_Feeder_Stop,Pvc Chicken Feeder Stop,1,thingiverse,"https://www.thingiverse.com/thing:6807216
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.13,AUTO-FILLED
+models/Livestock___Coop/PVC_feeder_bracket/PVC_corner_bracket,Pvc Corner Bracket,2,thingiverse,"https://www.thingiverse.com/thing:5326169
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.47,AUTO-FILLED
+models/Livestock___Coop/coop_door_guide_bracket/Filament_Guide,Filament Guide,1,thingiverse,"https://www.thingiverse.com/thing:748707
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Livestock___Coop/coop_door_guide_bracket/Sliding_Closet_Door_floor_guide,Sliding Closet Door Floor Guide,1,thingiverse,"https://www.thingiverse.com/thing:1763130
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Livestock___Coop/coop_door_guide_bracket/Sliding_door_guide,Sliding Door Guide,2,thingiverse,"https://www.thingiverse.com/thing:4137499
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.15,AUTO-FILLED
+models/Livestock___Coop/egg_tray_spacer/9_Egg_Stackable_Storage_Tray,9 Egg Stackable Storage Tray,1,thingiverse,"https://www.thingiverse.com/thing:6284412
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Livestock___Coop/egg_tray_spacer/Egg_Tray,Egg Tray,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.84,AUTO-FILLED
+models/Livestock___Coop/egg_tray_spacer/Egg_tray__6_egg_holder_,Egg Tray  6 Egg Holder ,1,thingiverse,"https://www.thingiverse.com/thing:6324172
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Livestock___Coop/feed_scoop_holder/Feed_Scoop,Feed Scoop,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,1.23,AUTO-FILLED
+models/Livestock___Coop/feed_scoop_holder/Feed___Seed_Scoop_1_Liter___Quart,Feed   Seed Scoop 1 Liter   Quart,4,thingiverse,"https://www.thingiverse.com/thing:5895757
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.12,AUTO-FILLED
+models/Livestock___Coop/feed_scoop_holder/Frigidaire_Countertop_Ice_Maker_Scoop_Holder,Frigidaire Countertop Ice Maker Scoop Holder,3,thingiverse,"https://www.thingiverse.com/thing:5196224
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.72,AUTO-FILLED
+models/Livestock___Coop/feed_scoop_holder/Scoop___Holder,Scoop   Holder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,1.23,AUTO-FILLED
+models/Livestock___Coop/feed_scoop_holder/Z18_Side_Mount_Spool_Holder,Z18 Side Mount Spool Holder,4,thingiverse,"https://www.thingiverse.com/thing:615307
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.72,AUTO-FILLED
+models/Livestock___Coop/fence_insulator_clip/Electric_Fence_Insulator,Electric Fence Insulator,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.81,AUTO-FILLED
+models/Livestock___Coop/fence_insulator_clip/Electric_fence_insulator_MKII,Electric fence insulator MKII,1,thingiverse,https://www.thingiverse.com/thing:2651490,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.93,AUTO-FILLED
+models/Livestock___Coop/fence_insulator_clip/Insulator_for_electric_fence,Insulator For Electric Fence,1,thingiverse,"https://www.thingiverse.com/thing:2574940
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Livestock___Coop/fence_insulator_clip/electric_fence_insulator,Electric Fence Insulator,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,1.28,AUTO-FILLED
+models/Livestock___Coop/poultry_nipple_wrench/Chicken_Watering_Nipple_ADAPTER_to_PET_soft_drink_bottle__just_the_gray_part_in_the_photos,Chicken Watering Nipple Adapter To Pet Soft Drink Bottle  Just The Gray Part In The Photos,1,thingiverse,"https://www.thingiverse.com/thing:1697930
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.91,AUTO-FILLED
+models/Livestock___Coop/poultry_nipple_wrench/Nipple_Wrench,Nipple Wrench,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.92,AUTO-FILLED
+models/Livestock___Coop/poultry_nipple_wrench/connector_for_poultry_nipple_drinker,Connector For Poultry Nipple Drinker,1,thingiverse,"https://www.thingiverse.com/thing:6579562
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Livestock___Coop/waterer_clip/Bottle_Water_Clip,Bottle Water Clip,1,thingiverse,"https://www.thingiverse.com/thing:878586
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.12,AUTO-FILLED
+models/Livestock___Coop/waterer_clip/Petlibro_cat_waterer_clip,Petlibro Cat Waterer Clip,1,thingiverse,"https://www.thingiverse.com/thing:6929296
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Livestock___Coop/waterer_clip/Water_Bottle_Clip,Water Bottle Clip,2,thingiverse,"https://www.thingiverse.com/thing:2197359
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Low-voltage___Solar/Anderson_Powerpole_mount/Anderson_PowerPole__Wall__Mounts,"Anderson PowerPole ""Wall"" Mounts",2,thingiverse,https://www.thingiverse.com/thing:1205771,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Low-voltage___Solar/Anderson_Powerpole_mount/Anderson_Powerpole_Shroud,Anderson Powerpole Shroud,4,thingiverse,https://cdn.thingiverse.com/assets/30/e4/ee/7d/6f/IMG_0527.JPG,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.97,AUTO-FILLED
+models/Low-voltage___Solar/Anderson_Powerpole_mount/Anderson_powerpole_3way_splitter,Anderson Powerpole 3Way Splitter,2,thingiverse,"https://www.thingiverse.com/thing:2822628
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Low-voltage___Solar/Anderson_Powerpole_mount/PowerPole_mount,Powerpole Mount,10,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.66,AUTO-FILLED
+models/Low-voltage___Solar/Anderson_Powerpole_mount/Surface_Mount_SB50_Anderson_Powerpole,Surface Mount SB50 Anderson Powerpole,4,thingiverse,https://www.thingiverse.com/thing:3929892,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Low-voltage___Solar/DIN_rail_mount/Arduino_DIN_rail_clip___bumper,Arduino Din Rail Clip   Bumper,1,thingiverse,"https://www.thingiverse.com/thing:500504
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.15,AUTO-FILLED
+models/Low-voltage___Solar/DIN_rail_mount/DIN_Mounts__Pi__Arduino_and_disks,Din Mounts  Pi  Arduino And Disks,17,thingiverse,"https://www.thingiverse.com/thing:2610621
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.67,AUTO-FILLED
+models/Low-voltage___Solar/DIN_rail_mount/DIN_Rail_Stand_KIT,Din Rail Stand Kit,4,thingiverse,"https://www.thingiverse.com/thing:3609072
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.69,AUTO-FILLED
+models/Low-voltage___Solar/DIN_rail_mount/DIN_Rail_Stand_v2,Din Rail Stand V2,1,thingiverse,"https://www.thingiverse.com/thing:2144527
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Low-voltage___Solar/DIN_rail_mount/Din_Rail_Mount,Din Rail Mount,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.83,AUTO-FILLED
+models/Low-voltage___Solar/MC4_dust_cap/BNC_Connector_Dust_Cap,Parametric BNC dust cap,2,thingiverse,"https://www.thingiverse.com/thing:620943
+-",UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.97,AUTO-FILLED
+models/Low-voltage___Solar/MC4_dust_cap/Bicycle_Crank_Dust_Cap,Bicycle Crank Dust Cap,1,thingiverse,"https://www.thingiverse.com/thing:4179967
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Low-voltage___Solar/MC4_dust_cap/MC4_Solar_Dust_Covers___Caps___MC4_Solar_Staubkappen,Mc4 Solar Dust Covers   Caps   Mc4 Solar Staubkappen,2,thingiverse,"https://www.thingiverse.com/thing:4799300
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Low-voltage___Solar/MC4_dust_cap/Parametric_BNC_dust_cap,Parametric BNC dust cap,2,thingiverse,"https://www.thingiverse.com/thing:620943
+-",UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,1.50,AUTO-FILLED
+models/Low-voltage___Solar/MC4_dust_cap/USB-A_Male_Flexible_Dust_Cap,USB-A Male Flexible Dust Cap,1,thingiverse,"https://www.thingiverse.com/thing:2816192
+-",UNKNOWN / NEEDS REVIEW,CC BY-NC-ND 4.0,_archive/scraper_bootstrap/manifests/license_audit.csv,0.93,AUTO-FILLED
+models/Low-voltage___Solar/fuse_holder_mount/ANL_Fuse_Holder,Anl Fuse Holder,3,thingiverse,"https://www.thingiverse.com/thing:817838
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Low-voltage___Solar/fuse_holder_mount/Car_fuse_holder_for_PCB_mounting,Car Fuse Holder For Pcb Mounting,2,thingiverse,"https://www.thingiverse.com/thing:505360
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Low-voltage___Solar/fuse_holder_mount/Fuse_Holder,Fuse Holder,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,1.24,AUTO-FILLED
+models/Low-voltage___Solar/fuse_holder_mount/Fuse_holder,Fuse Holder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.95,AUTO-FILLED
+models/Low-voltage___Solar/fuse_holder_mount/Motorcycle_fuse_holder,Motorcycle Fuse Holder,1,thingiverse,"https://www.thingiverse.com/thing:2865060
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Low-voltage___Solar/project_box/Basic_project_box,Basic project box,2,thingiverse,"https://www.thingiverse.com/thing:961949
+-",UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Low-voltage___Solar/project_box/Project_Box,Project Box,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,1.22,AUTO-FILLED
+models/Low-voltage___Solar/project_box/Project_box,Project Box,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.87,AUTO-FILLED
+models/Low-voltage___Solar/project_box/Universal_Project_Box,Universal Project Box,7,thingiverse,"https://www.thingiverse.com/thing:4801005
+-",UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Low-voltage___Solar/solar_cable_clip/Cable_Clip,Cable Clip,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.88,AUTO-FILLED
+models/Low-voltage___Solar/solar_cable_clip/Cable_Clip_organizer,Cable Clip Organizer,2,thingiverse,"https://www.thingiverse.com/thing:7019950
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Low-voltage___Solar/solar_cable_clip/Cable_clip,Cable Clip,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.80,AUTO-FILLED
+models/Low-voltage___Solar/solar_cable_clip/Earphone_Cable_Clip,Earphone Cable Clip,1,thingiverse,"https://www.thingiverse.com/thing:2261211
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.14,AUTO-FILLED
+models/Low-voltage___Solar/solar_cable_clip/PTFE_cable_clip,Ptfe Cable Clip,2,thingiverse,"https://www.thingiverse.com/thing:4599940
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Low-voltage___Solar/strain_relief_bracket/Anet_E10__Cable_strain_relief_for_heatbed,Anet E10: Cable strain relief for heatbed,2,thingiverse,https://www.thingiverse.com/thing:2482038,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Low-voltage___Solar/strain_relief_bracket/Creality_CR-10_Strain_relief_bracket_for_heated_bed_cable,Creality CR-10 Strain relief bracket for heated bed cable,3,thingiverse,https://www.thingiverse.com/thing:2186203,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.86,AUTO-FILLED
+models/Low-voltage___Solar/strain_relief_bracket/Ender-5_Bed_Strain_Relief,Ender 5 Bed Strain Relief,1,thingiverse,"https://www.thingiverse.com/thing:3443100
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Low-voltage___Solar/strain_relief_bracket/Ender_5_Bed_Strain_Relief_-_Improved,Ender 5 Bed Strain Relief   Improved,2,thingiverse,"https://www.thingiverse.com/thing:3669438
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.50,AUTO-FILLED
+models/Low-voltage___Solar/strain_relief_bracket/Tevo_Tornado_Strain_Relief,Tevo Tornado Strain Relief,1,thingiverse,"https://www.thingiverse.com/thing:2748197
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Low-voltage___Solar/zip_tie_mount/Customizable_Cable_Tie,Customizable Cable Tie,3,thingiverse,"https://www.thingiverse.com/thing:58776
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.12,AUTO-FILLED
+models/Low-voltage___Solar/zip_tie_mount/GoPro_Zip_Tie_mount_2,Gopro Zip Tie Mount 2,1,thingiverse,"https://www.thingiverse.com/thing:84747
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Low-voltage___Solar/zip_tie_mount/Zip_tie,Zip Tie,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,2.23,AUTO-FILLED
+models/Low-voltage___Solar/zip_tie_mount/Zip_tie_Mount_Gopro,Zip Tie Mount Gopro,1,thingiverse,"https://www.thingiverse.com/thing:1311271
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.14,AUTO-FILLED
+models/Low-voltage___Solar/zip_tie_mount/Zip_tie_mount__20_mm_,Zip tie mount [20 mm],4,thingiverse,https://www.thingiverse.com/thing:4981711,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/PEX___Tubing/PEX_bend_support/17_mm_PEX_Pipe_bend,17 Mm Pex Pipe Bend,1,thingiverse,"https://www.thingiverse.com/thing:7159554
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/PEX___Tubing/PEX_bend_support/90__bend_for__22mm_PVC_Pipe_Weld_-Better_Support,90° bend for Ø22mm PVC Pipe Weld -Better Support,1,thingiverse,https://www.thingiverse.com/thing:656548,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.88,AUTO-FILLED
+models/PEX___Tubing/PEX_bend_support/PEX_Clips_-_90__and_straight,PEX Clips - 90° and straight,2,thingiverse,https://www.thingiverse.com/thing:6481491,UNKNOWN / NEEDS REVIEW,CC BY-NC,_archive/scraper_bootstrap/manifests/license_audit.csv,0.83,AUTO-FILLED
+models/PEX___Tubing/PEX_bend_support/Pex_Wreath_Support,Pex Wreath Support,2,thingiverse,"https://www.thingiverse.com/thing:5151406
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.74,AUTO-FILLED
+models/PEX___Tubing/PEX_pipe_clip/Offset_Pipe_Clip___Cable_Clip_all_sizes,Offset Pipe Clip   Cable Clip All Sizes,41,thingiverse,"https://www.thingiverse.com/thing:2788461
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.88,AUTO-FILLED
+models/PEX___Tubing/PEX_pipe_clip/PEX_Pipe_Mount,PEX Pipe Mount,4,thingiverse,https://www.thingiverse.com/thing:3390949,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.70,AUTO-FILLED
+models/PEX___Tubing/PEX_pipe_clip/PVC_Pipe_3_4___1__OD__U_Clip__Hangers____Joiner_-_Holds_fabric__cloth__hanging_items,"PVC Pipe 3/4"" (1"" OD) U Clip, Hangers, & Joiner - Holds fabric, cloth, hanging items",5,thingiverse,https://www.thingiverse.com/thing:1995676,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.91,AUTO-FILLED
+models/PEX___Tubing/PEX_pipe_clip/Pipe_Clip___Cable_Clip_-_Customizer,Pipe Clip / Cable Clip - Customizer,1,thingiverse,https://www.thingiverse.com/thing:2913697,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.83,AUTO-FILLED
+models/PEX___Tubing/PEX_pipe_clip/Pipe_Clip___Cable_Clip_20mm_to_60mm_all_sizes,Pipe Clip / Cable Clip 20mm to 60mm all sizes,41,thingiverse,https://www.thingiverse.com/thing:2788461,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,1.44,AUTO-FILLED
+models/PEX___Tubing/tubing_label_tag/Cable_Label___Cable_Tag,Cable Label / Cable Tag,19,thingiverse,https://www.thingiverse.com/thing:4114319,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
+models/PEX___Tubing/tubing_label_tag/Customizer_Version_of_luggage_label,Customizer Version of luggage label,2,thingiverse,https://www.thingiverse.com/thing:175150,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/PEX___Tubing/tubing_label_tag/Key_Ring_Tag_Label,Key Ring Tag Label,7,thingiverse,"https://www.thingiverse.com/thing:6024522
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.70,AUTO-FILLED
+models/Sensors___Cameras/camera_mount/Camera_Arm_-_Standard_Tripod_Mount,Camera Arm - Standard Tripod Mount,7,thingiverse,https://www.thingiverse.com/thing:3095730,HippieHeadShot,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,0.86,AUTO-FILLED
+models/Sensors___Cameras/camera_mount/Ender_3_Webcam_mount,Ender 3 Webcam mount,2,thingiverse,https://www.thingiverse.com/thing:3147743,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Sensors___Cameras/camera_mount/Prusa_i3_MK3_logitech_C270_camera_mount.,Prusa i3 MK3 logitech C270 camera mount.,1,thingiverse,https://www.thingiverse.com/thing:2818559,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.86,AUTO-FILLED
+models/Sensors___Cameras/camera_mount/Universal_iPhone_camera_mount,Universal Iphone Camera Mount,8,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.68,AUTO-FILLED
+models/Sensors___Cameras/sensor_weather_hood/Kestrel_Weather_Sensor_Wind_Vane,Camera Arm - Standard Tripod Mount,7,thingiverse,https://www.thingiverse.com/thing:3095730,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Sensors___Cameras/sensor_weather_hood/Radiation___Weather_shield_for_Netatmo_outdoor_sensor,Radiation   Weather Shield For Netatmo Outdoor Sensor,3,thingiverse,"https://www.thingiverse.com/thing:804356
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.87,AUTO-FILLED
+models/Sensors___Cameras/sensor_weather_hood/Weather_station_wind_direction_sensor,Mason Jar Sprouting Lid Wide and Standard,6,printables,https://www.printables.com/model/65895-mason-jar-sprouting-lid,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models.csv,0.79,AUTO-FILLED
+models/Sensors___Cameras/sensor_weather_hood/eNVIRO_sense__outdoor_wireless_weather_station_sensor_with_Stevenson_screen,Drip Irrigation Tube Stake (revised),14,printables,https://www.printables.com/model/463395-just-another-drip-irrigation-tube-stake,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/old_attempts/models_v2.csv,0.79,AUTO-FILLED
+models/Sensors___Cameras/tripod_adapter/GoPro_Tripod_Adapter,Gopro Tripod Adapter,2,thingiverse,"https://www.thingiverse.com/thing:151867
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.01,AUTO-FILLED
+models/Sensors___Cameras/tripod_adapter/Smartphone_Tripod_Adapter,Smartphone Tripod Adapter,2,thingiverse,https://www.thingiverse.com/thing:6305864,UNKNOWN / NEEDS REVIEW,CC BY-NC-ND 4.0,_archive/scraper_bootstrap/manifests/license_audit.csv,0.60,AUTO-FILLED
+models/Sensors___Cameras/tripod_adapter/TriK_Tripod_Adapter_for_the_Kinect,TriK Tripod Adapter for the Kinect,1,thingiverse,https://www.thingiverse.com/thing:5004,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
+models/Sensors___Cameras/tripod_adapter/Tripod_adapter_for_Kinect,Tripod Adapter For Kinect,2,thingiverse,"https://www.thingiverse.com/thing:6930
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Trailer___Vehicle_utility/grommet/Customizable_Wire_Access_Grommet,Customizable Wire Access Grommet,2,thingiverse,"https://www.thingiverse.com/thing:273159
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Trailer___Vehicle_utility/hitch_pin_holder/Hairpin_Cotter_Pin_R_Clip_Hitch_Pin,Hairpin Cotter Pin R Clip Hitch Pin,1,thingiverse,"https://www.thingiverse.com/thing:1569698
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Trailer___Vehicle_utility/hitch_pin_holder/Hitch_Cover_Pin,Hitch Cover Pin,2,thingiverse,"https://www.thingiverse.com/thing:3046865
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.13,AUTO-FILLED
+models/Trailer___Vehicle_utility/panel_clip/Auto_Panel_Clip,Auto Panel Clip,2,thingiverse,"https://www.thingiverse.com/thing:5166144
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Trailer___Vehicle_utility/panel_clip/Car_Panel_Clip,Car Panel Clip,5,thingiverse,"https://www.thingiverse.com/thing:665635
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.70,AUTO-FILLED
+models/Trailer___Vehicle_utility/panel_clip/Door_Panel_Remover___Clip_Remover,Door Panel Remover   Clip Remover,1,thingiverse,"https://www.thingiverse.com/thing:145272
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Trailer___Vehicle_utility/panel_clip/Panel_Clip,Panel Clip,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.93,AUTO-FILLED
+models/Trailer___Vehicle_utility/panel_clip/Vehicle_Door_Panel_trim_clip_V4_Final,Vehicle Door Panel Trim Clip V4 Final,1,thingiverse,"https://www.thingiverse.com/thing:2287605
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Trailer___Vehicle_utility/trailer_plug_dust_cap/2.5in_x2.5in_14_Ga__.083in__Square_Tubing_End_Cap_-__Carry-On_Trailer_,2.5in x2.5in 14 Ga (.083in) Square Tubing End Cap - (Carry-On Trailer),1,thingiverse,https://cdn.thingiverse.com/assets/6f/df/08/69/b9/IMG_20241104_134012.jpg,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.92,AUTO-FILLED
+models/Trailer___Vehicle_utility/trailer_plug_dust_cap/7Pin_trailer_plug_cap,7Pin Trailer Plug Cap,2,thingiverse,"https://www.thingiverse.com/thing:2271125
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Trailer___Vehicle_utility/trailer_plug_dust_cap/RCA_cinch_dust_plug_cap,Rca Cinch Dust Plug Cap,1,thingiverse,"https://www.thingiverse.com/thing:2517224
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.17,AUTO-FILLED
+models/Trailer___Vehicle_utility/trailer_plug_dust_cap/Trailer_hub_dust_cap,Trailer Hub Dust Cap,2,thingiverse,"https://www.thingiverse.com/thing:846999
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Trailer___Vehicle_utility/trailer_plug_dust_cap/USB_Type-C_dust_plug,Usb Type C Dust Plug,1,thingiverse,"https://www.thingiverse.com/thing:7013178
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.17,AUTO-FILLED
+models/Water___Irrigation/bucket_to_hose_adapter/3D-printable_faucet-to-hose_adapter,3D Printable Faucet To Hose Adapter,1,thingiverse,"https://www.thingiverse.com/thing:2067862
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Water___Irrigation/bucket_to_hose_adapter/Bucket_hose_adapter_connector,Bucket Hose Adapter Connector,2,thingiverse,"https://www.thingiverse.com/thing:2926894
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Water___Irrigation/bucket_to_hose_adapter/Hose_to_Bathroom_sink_adapter,Hose To Bathroom Sink Adapter,1,thingiverse,"https://www.thingiverse.com/thing:219625
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Water___Irrigation/bucket_to_hose_adapter/Shower_hose_adapter_for_filling_containers,Shower Hose Adapter For Filling Containers,1,thingiverse,"https://www.thingiverse.com/thing:5469657
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.87,AUTO-FILLED
+models/Water___Irrigation/drip_irrigation_stake/Drip_Irrigation_Ring,Drip Irrigation Ring,4,thingiverse,"https://www.thingiverse.com/thing:5171191
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.74,AUTO-FILLED
+models/Water___Irrigation/drip_irrigation_stake/Drip_Irrigation_System_-_Rain_Bird__R____Gardena_Microdrip__R__Compatible,Drip Irrigation System   Rain Bird  R    Gardena Microdrip  R  Compatible,16,thingiverse,"https://www.thingiverse.com/thing:6625825
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.69,AUTO-FILLED
+models/Water___Irrigation/drip_irrigation_stake/Drip_irrigation,Drip Irrigation,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.89,AUTO-FILLED
+models/Water___Irrigation/drip_irrigation_stake/Irrigation_Stakes,Irrigation Stakes,4,thingiverse,"https://www.thingiverse.com/thing:26459
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Water___Irrigation/drip_irrigation_stake/Water_Bottle_Drip_Irrigation_System,Water Bottle Drip Irrigation System,3,thingiverse,"https://www.thingiverse.com/thing:2407411
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Water___Irrigation/drip_line_clip/1_4__.25_Drip_line_irrigation_tubing_stake,"1/4"" .25 Drip line irrigation tubing stake",1,thingiverse,https://cdn.thingiverse.com/assets/d5/d4/ca/43/32/IMG_20180529_082313317.jpg,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Water___Irrigation/drip_line_clip/4mm_drip_line_T_connector,4Mm Drip Line T Connector,5,thingiverse,"https://www.thingiverse.com/thing:6234451
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.73,AUTO-FILLED
+models/Water___Irrigation/drip_line_clip/Drip_Irrigation_Pot_Clip,Drip Irrigation Pot Clip,1,thingiverse,"https://www.thingiverse.com/thing:313258
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Water___Irrigation/drip_line_clip/Irrigation_Hose_and_Drip_Line_Clips,Irrigation Hose And Drip Line Clips,2,thingiverse,"https://www.thingiverse.com/thing:2892445
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Water___Irrigation/emitter_punch_tool_handle/Leather_Working_Detachable_Card_Slot_Punch_Tool_Handle,Leather Working Detachable Card Slot Punch Tool Handle,2,thingiverse,"https://www.thingiverse.com/thing:5885519
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Water___Irrigation/emitter_punch_tool_handle/Mosin_Nagaunt_Striker_pin_punch_probe_tool_handle,Mosin Nagaunt Striker Pin Punch Probe Tool Handle,2,thingiverse,"https://www.thingiverse.com/thing:3913952
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.86,AUTO-FILLED
+models/Water___Irrigation/emitter_punch_tool_handle/Punch_Tool_Handle,Punch Tool Handle,3,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.98,AUTO-FILLED
+models/Water___Irrigation/emitter_punch_tool_handle/Umarex_CO2_Punch_Button_Pressure_Tool,Umarex Co2 Punch Button Pressure Tool,1,thingiverse,"https://www.thingiverse.com/thing:6312401
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Water___Irrigation/garden_hose_cap/Garden_Hose,Garden Hose,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.98,AUTO-FILLED
+models/Water___Irrigation/garden_hose_cap/Garden_Hose_Cap,Garden Hose Cap,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.96,AUTO-FILLED
+models/Water___Irrigation/garden_hose_cap/Garden_Hose_Hanger,Garden Hose Hanger,2,thingiverse,"https://www.thingiverse.com/thing:3057882
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.99,AUTO-FILLED
+models/Water___Irrigation/garden_hose_cap/Garden_Hose_Holder,Garden Hose Holder,3,thingiverse,"https://www.thingiverse.com/thing:3057882
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.74,AUTO-FILLED
+models/Water___Irrigation/garden_hose_cap/Garden_hose_Coupler,Garden Hose Coupler,2,thingiverse,"https://www.thingiverse.com/thing:9596
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Water___Irrigation/garden_hose_quick_connect/Garden_hose_gardena_quick_connect_release_female,Garden hose gardena quick connect release female,9,thingiverse,https://www.thingiverse.com/thing:3714632,jpaul038,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,0.73,AUTO-FILLED
+models/Water___Irrigation/garden_hose_quick_connect/Garden_hose_quick_connect_coupler_-_male_to_male,Garden Hose Quick Connect Coupler   Male To Male,1,thingiverse,"https://www.thingiverse.com/thing:2436601
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.85,AUTO-FILLED
+models/Water___Irrigation/garden_hose_quick_connect/Nut_for_garden_hose_quick_connect,Nut For Garden Hose Quick Connect,2,thingiverse,"https://www.thingiverse.com/thing:3082908
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Water___Irrigation/garden_hose_quick_connect/Quick_garden_male_connector_into_hose_13mm,Quick garden male connector into hose 13mm,4,thingiverse,https://www.thingiverse.com/thing:2370490,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Water___Irrigation/garden_hose_quick_connect/Water_diffuser_for_garden,Water Diffuser For Garden,2,thingiverse,"https://www.thingiverse.com/thing:4599284
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Water___Irrigation/garden_hose_washer_retainer/Carwash_Hose_Guide_Roller_Wheel_Chock_for_18__Wheel_Tire,Carwash Hose Guide Roller Wheel Chock For 18  Wheel Tire,1,thingiverse,"https://www.thingiverse.com/thing:7010513
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.89,AUTO-FILLED
+models/Water___Irrigation/garden_hose_washer_retainer/Garden_Hose_Washer,Garden Hose Washer,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.97,AUTO-FILLED
+models/Water___Irrigation/garden_hose_washer_retainer/Garden_Hose_to_Pressure_Washer,Garden Hose to Pressure Washer,1,thingiverse,https://cdn.thingiverse.com/assets/c2/4f/76/ef/5e/STL_BG_copy_2.jpg,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.99,AUTO-FILLED
+models/Water___Irrigation/garden_hose_washer_retainer/WORKZONE_PRESSURE_WASHER_HOSE_CONNECTOR,Workzone Pressure Washer Hose Connector,2,thingiverse,"https://www.thingiverse.com/thing:4127970
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Water___Irrigation/goof_plug_organizer/8mm_Spark_Plug_Wire_Organizer___Loom,8Mm Spark Plug Wire Organizer   Loom,4,thingiverse,"https://www.thingiverse.com/thing:1231498
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Water___Irrigation/goof_plug_organizer/Drip_Irrigation_Goof_Plug,Drip Irrigation Goof Plug,2,thingiverse,"https://www.thingiverse.com/thing:899153
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Water___Irrigation/goof_plug_organizer/Drip_irrigation_goof_plug,Drip Irrigation Goof Plug,2,thingiverse,"https://www.thingiverse.com/thing:899153
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.79,AUTO-FILLED
+models/Water___Irrigation/goof_plug_organizer/plug_organizer__EU_Schukostecker_Organizer,Plug Organizer  Eu Schukostecker Organizer,1,thingiverse,"https://www.thingiverse.com/thing:6803723
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.84,AUTO-FILLED
+models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_Barel_Overflow_Spout,Rain Barel Overflow Spout,2,thingiverse,"https://www.thingiverse.com/thing:3693571
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_Barrel_4X6_Overflow,Rain Barrel 4X6 Overflow,1,thingiverse,"https://www.thingiverse.com/thing:5436489
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.19,AUTO-FILLED
+models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_Collector___Regensammler,Rain Collector   Regensammler,2,thingiverse,"https://www.thingiverse.com/thing:3759322
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.78,AUTO-FILLED
+models/Water___Irrigation/rain_barrel_overflow_adapter/Rain_barrel_diverter___leaves_filter___on_off_option,Rain Barrel Diverter   Leaves Filter   On Off Option,2,thingiverse,"https://www.thingiverse.com/thing:2882193
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.89,AUTO-FILLED
+models/Water___Irrigation/rain_barrel_overflow_adapter/Water_Crane_Adapter,Water Crane Adapter,1,thingiverse,"https://www.thingiverse.com/thing:3759270
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.74,AUTO-FILLED
+models/Water___Irrigation/rain_barrel_screen_ring/Downspout_Leaf_Filter__Diverter__for_Rain_Barrel,Downspout Leaf Filter  Diverter  For Rain Barrel,9,thingiverse,"https://www.thingiverse.com/thing:4879848
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.71,AUTO-FILLED
+models/Water___Irrigation/rain_barrel_screen_ring/Rain_Barrel_Water_Diverter_for_2-5_8__square_downspout,Rain Barrel Water Diverter For 2 5 8  Square Downspout,4,thingiverse,"https://www.thingiverse.com/thing:351234
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.81,AUTO-FILLED
+models/Workshop/center_finder_jig/Center_Finder,Center Finder,2,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,0.86,AUTO-FILLED
+models/Workshop/center_finder_jig/Center_Finder_For_Edges_Set,Center Finder For Edges Set,5,thingiverse,"https://www.thingiverse.com/thing:2199356
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.71,AUTO-FILLED
+models/Workshop/center_finder_jig/Center_Jig,Center Jig,2,thingiverse,"https://www.thingiverse.com/thing:2016760
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.72,AUTO-FILLED
+models/Workshop/center_finder_jig/Center_finder__square_round_,Center Finder  Square Round ,1,thingiverse,"https://www.thingiverse.com/thing:3283699
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.13,AUTO-FILLED
+models/Workshop/center_finder_jig/Cylinder_Center_Finder,Cylinder Center Finder,1,thingiverse,"https://www.thingiverse.com/thing:1605373
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Workshop/drill_bit_organizer/Drill_Bit_Organizer,Drill Bit Organizer,6,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets_expanded.csv,1.44,AUTO-FILLED
+models/Workshop/drill_bit_organizer/Drill_Bit_Organizer_Trays,Drill Bit Organizer Trays,8,thingiverse,"https://www.thingiverse.com/thing:4789270
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.72,AUTO-FILLED
+models/Workshop/drill_bit_organizer/Drill_Driver_Bit_Attachment,Drill Driver Bit Attachment,1,thingiverse,"https://www.thingiverse.com/thing:5146126
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.80,AUTO-FILLED
+models/Workshop/drill_bit_organizer/Drill_bit_organizer,Drill Bit Organizer,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.87,AUTO-FILLED
+models/Workshop/drill_bit_organizer/Drill_bit_sharpener,Drill Bit Sharpener,4,thingiverse,"https://www.thingiverse.com/thing:1024834
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.71,AUTO-FILLED
+models/Workshop/drill_guide/DeWalt_Drill_Guide,Dewalt Drill Guide,4,thingiverse,"https://www.thingiverse.com/thing:4790756
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.69,AUTO-FILLED
+models/Workshop/drill_guide/Drill_Guide_Dremel,Drill Guide Dremel,2,thingiverse,"https://www.thingiverse.com/thing:3822300
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.73,AUTO-FILLED
+models/Workshop/drill_guide/Multi_Angle_Drill_Guide,Multi Angle Drill Guide,6,thingiverse,"https://www.thingiverse.com/thing:5651012
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.70,AUTO-FILLED
+models/Workshop/drill_guide/Serious_Straight_Drill_Guide_Jig,Serious Straight Drill Guide Jig,1,thingiverse,"https://www.thingiverse.com/thing:1214546
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Workshop/sanding_block/Mini_Sanding_Block,Mini Sanding Block,8,thingiverse,"https://www.thingiverse.com/thing:4633924
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.37,AUTO-FILLED
+models/Workshop/sanding_block/Sanding_Block,Sanding Block,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,1.16,AUTO-FILLED
+models/Workshop/sanding_block/Sanding_block,Sanding Block,4,thingiverse,"https://www.thingiverse.com/thing:4655051
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.02,AUTO-FILLED
+models/Workshop/sanding_block/Screwless_EASY_SANDING_BLOCK,Screwless Easy Sanding Block,5,thingiverse,"https://www.thingiverse.com/thing:4655051
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.05,AUTO-FILLED
+models/Workshop/socket_organizer/Craftsman_Socket_Organizer,Craftsman Socket Organizer,30,thingiverse,https://www.thingiverse.com/thing:1697916,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.60,AUTO-FILLED
+models/Workshop/socket_organizer/Customizable_Socket_Organizer,Customizable Socket Organizer,2,thingiverse,"https://www.thingiverse.com/thing:6864530
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.77,AUTO-FILLED
+models/Workshop/socket_organizer/Socket_Organizer,Socket Organizer,4,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.73,AUTO-FILLED
+models/Workshop/socket_organizer/Socket_Organizer_Set,Socket Organizer Set,11,thingiverse,https://www.thingiverse.com/thing:4353982,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,0.62,AUTO-FILLED
+models/Workshop/socket_organizer/Socket_organizer,Socket Organizer,11,thingiverse,"https://www.thingiverse.com/thing:6864530
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.65,AUTO-FILLED
+models/Workshop/soft_vise_jaw/Jaw_set_for_vise,Jaw Set For Vise,7,thingiverse,"https://www.thingiverse.com/thing:5272655
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.63,AUTO-FILLED
+models/Workshop/soft_vise_jaw/Vise_Soft_Jaws,Vise Soft Jaws,3,thingiverse,"https://www.thingiverse.com/thing:1376177
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.69,AUTO-FILLED
+models/Workshop/soft_vise_jaw/Vise_grip_soft_jaw,Vise grip soft jaw,2,thingiverse,https://www.thingiverse.com/thing:7185789,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.76,AUTO-FILLED
+models/Workshop/soft_vise_jaw/Vise_soft_Jaw_cover,Vise soft Jaw cover,2,thingiverse,https://www.thingiverse.com/thing:7027171,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,1.49,AUTO-FILLED
+models/Workshop/soft_vise_jaw/Vise_soft_jaw_strips,Vise Soft Jaw Strips,3,thingiverse,"https://www.thingiverse.com/thing:681522
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.70,AUTO-FILLED
+models/Workshop/spacer_shim_washer/Customizable_Washer___Screw_Spacer,Customizable Washer   Screw Spacer,5,thingiverse,"https://www.thingiverse.com/thing:4888599
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.09,AUTO-FILLED
+models/Workshop/spacer_shim_washer/Parametric_Washer_Spacer,Parametric Washer Spacer,2,thingiverse,"https://www.thingiverse.com/thing:4614
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.47,AUTO-FILLED
+models/Workshop/spacer_shim_washer/Parametric_push_fit_spacer___washer___circlip,Parametric Push Fit Spacer   Washer   Circlip,17,thingiverse,"https://www.thingiverse.com/thing:3020658
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.63,AUTO-FILLED
+models/Workshop/spacer_shim_washer/Pegboard_Mount__Spacer___Washer,Pegboard Mount  Spacer   Washer,2,thingiverse,"https://www.thingiverse.com/thing:3004467
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,1.12,AUTO-FILLED
+models/Workshop/spacer_shim_washer/Z-Axis_shim_spacer_for_2016_FlashForge_Creator_Pro__for_glass_bed__customizable_,"Z-Axis shim spacer for 2016 FlashForge Creator Pro (for glass bed, customizable)",6,thingiverse,https://www.thingiverse.com/thing:1886458,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.90,AUTO-FILLED
+models/Workshop/star_knob/Death_Star_Falcon_rotary_knob_for_6mm_shaft_Creality_Ender_3_5__CR-10__CR-20,"Death Star Falcon rotary knob for 6mm shaft Creality Ender 3/5, CR-10, CR-20",2,thingiverse,https://cdn.thingiverse.com/assets/1f/87/26/22/be/20190311_135615.jpg,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.92,AUTO-FILLED
+models/Workshop/star_knob/Smooth_n__Curvy_Star_Knob__Customizable_,Smooth n' Curvy Star Knob (Customizable),2,thingiverse,https://www.thingiverse.com/thing:1562501,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.82,AUTO-FILLED
+models/Workshop/star_knob/Star_Knob_M6_Gamm,Star Knob M6 Gamm,1,thingiverse,"https://www.thingiverse.com/thing:7283431
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.74,AUTO-FILLED
+models/Workshop/star_knob/Star_knob_M8,Star Knob M8,1,thingiverse,"https://www.thingiverse.com/thing:1666768
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.73,AUTO-FILLED
+models/Workshop/star_knob/Strong_M12_M10_M8_star_knob_with_locked_nut,Strong M12 M10 M8 star knob with locked nut,7,thingiverse,https://www.thingiverse.com/thing:2086200,UNKNOWN / NEEDS REVIEW,CC BY,_archive/scraper_bootstrap/manifests/license_audit.csv,1.92,AUTO-FILLED
+models/Workshop/thumb_screw_knob/Bed_Leveling_Thumb_Screw,Bed Leveling Thumb Screw,1,thingiverse,"https://www.thingiverse.com/thing:261309
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.99,AUTO-FILLED
+models/Workshop/thumb_screw_knob/Ender_3___3_pro_z_lead_screw_speed_knob,Ender 3   3 Pro Z Lead Screw Speed Knob,2,thingiverse,"https://www.thingiverse.com/thing:3373265
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.74,AUTO-FILLED
+models/Workshop/thumb_screw_knob/Screw_Caps,Screw Caps,6,thingiverse,"https://www.thingiverse.com/thing:2186175
+-",UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/license_audit.csv,0.66,AUTO-FILLED
+models/Workshop/thumb_screw_knob/Screw_knob,Screw Knob,10,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.68,AUTO-FILLED
+models/Workshop/thumb_screw_knob/gopro_thumb_screw,gopro thumb screw,4,thingiverse,https://www.thingiverse.com/thing:299721,UNKNOWN / NEEDS REVIEW,CC BY-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.58,AUTO-FILLED
+models/Workshop/tool_wall_hook/Ego_Blower_wall_mount,Ego Blower wall mount,1,thingiverse,https://www.thingiverse.com/thing:3444418,kyle1087,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/candidates.csv,0.66,AUTO-FILLED
+models/Workshop/tool_wall_hook/Happy_skateboard_wall_hook,Happy skateboard wall hook,4,thingiverse,https://www.thingiverse.com/thing:2572526,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.75,AUTO-FILLED
+models/Workshop/tool_wall_hook/WALL_HOOK,Wall Hook,1,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,UNKNOWN / NEEDS REVIEW,_archive/scraper_bootstrap/manifests/wanted_targets.csv,0.83,AUTO-FILLED
+models/Workshop/tool_wall_hook/Wide_Wall_Hook,Wide Wall Hook,1,thingiverse,https://www.thingiverse.com/thing:2419081,UNKNOWN / NEEDS REVIEW,CC BY-NC-SA,_archive/scraper_bootstrap/manifests/license_audit.csv,0.59,AUTO-FILLED
