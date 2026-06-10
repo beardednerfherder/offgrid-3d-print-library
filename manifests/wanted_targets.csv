@@ -1,0 +1,71 @@
+category,target_item,priority,notes
+Water / Irrigation,garden hose cap,high,GHT / 3/4 garden hose cap; low pressure only
+Water / Irrigation,garden hose washer retainer,medium,washer keeper / gasket retainer
+Water / Irrigation,garden hose quick connect,medium,repair or dust cap pieces only
+Water / Irrigation,bucket to hose adapter,high,gravity feed only; no pressurized water claims
+Water / Irrigation,rain barrel screen ring,high,screen retaining ring
+Water / Irrigation,rain barrel overflow adapter,medium,low pressure overflow only
+Water / Irrigation,drip irrigation stake,high,1/4 inch micro tubing stake
+Water / Irrigation,drip line clip,high,1/2 inch drip line hold-down clip
+Water / Irrigation,goof plug organizer,medium,irrigation repair organizer
+Water / Irrigation,emitter punch tool handle,medium,handle only
+PEX / Tubing,PEX pipe clip,high,support clip only; no printed pressurized fittings
+PEX / Tubing,PEX bend support,high,bend guide/support only
+PEX / Tubing,tubing label tag,medium,label tags for pipe/tubing
+Greenhouse / Garden,greenhouse clip,high,poly tunnel / hoop house clip
+Greenhouse / Garden,poly tunnel clamp,high,PVC or EMT hoop clamp
+Greenhouse / Garden,shade cloth clip,high,shade cloth or netting clip
+Greenhouse / Garden,trellis clip,medium,garden trellis clip
+Greenhouse / Garden,tomato twine clip,medium,tomato support clip
+Greenhouse / Garden,plant label stake,medium,garden label marker
+Greenhouse / Garden,seed spacing ruler,medium,row spacing guide
+Greenhouse / Garden,raised bed corner bracket,high,non-structural alignment/bracket only
+Buckets / Food Storage,5 gallon bucket handle,high,handle grip replacement
+Buckets / Food Storage,bucket lid opener,high,ergonomic bucket opener
+Buckets / Food Storage,bucket clip hook,medium,bucket rim clip/hook
+Buckets / Food Storage,jar funnel,high,mason jar funnel
+Buckets / Food Storage,mason jar sprouting lid,high,food-contact caution
+Buckets / Food Storage,mason jar storage cap,medium,storage cap
+Buckets / Food Storage,bag clip heavy duty,high,large utility bag clip
+Workshop,star knob,high,M4 M5 M6 common sizes
+Workshop,thumb screw knob,high,knobs and hand wheels
+Workshop,spacer shim washer,high,assortment / parametric ok
+Workshop,clamp pad,medium,shop clamp pads
+Workshop,soft vise jaw,medium,vise jaw protectors
+Workshop,drill guide,high,drill guide block
+Workshop,center finder jig,high,center finding jig
+Workshop,sanding block,medium,sandpaper block
+Workshop,tool wall hook,medium,wall hook / french cleat hook
+Workshop,socket organizer,medium,tool storage
+Workshop,drill bit organizer,medium,tool storage
+Low-voltage / Solar,MC4 dust cap,high,dust/moisture cap only; not certified electrical part
+Low-voltage / Solar,solar cable clip,high,panel cable management only
+Low-voltage / Solar,Anderson Powerpole mount,high,mounting only
+Low-voltage / Solar,DIN rail mount,medium,low voltage only
+Low-voltage / Solar,fuse holder mount,medium,low voltage only
+Low-voltage / Solar,project box,high,ESP32 / low voltage enclosure
+Low-voltage / Solar,zip tie mount,high,cable management
+Low-voltage / Solar,strain relief bracket,medium,low-voltage only
+Comms,antenna wire winder,high,ham/off-grid useful
+Comms,dipole center insulator,high,antenna part
+Comms,end insulator,high,antenna part
+Comms,guy line tensioner,high,cord / guyline tensioner
+Comms,coax pass through plate,medium,pass-through plate
+Comms,RTL SDR case,high,SDR enclosure
+Comms,Meshtastic Heltec V3 case,high,Meshtastic case
+Comms,ESP32 case,high,ESP32 enclosure
+Sensors / Cameras,camera mount,high,outdoor camera mount
+Sensors / Cameras,tripod adapter,medium,1/4-20 camera adapter
+Sensors / Cameras,pole clamp,high,pole mounting clamp
+Sensors / Cameras,sensor weather hood,high,weather hood for sensors
+Trailer / Vehicle utility,trailer plug dust cap,medium,non-structural dust cap only
+Trailer / Vehicle utility,hitch pin holder,medium,holder only; non-structural
+Trailer / Vehicle utility,grommet,medium,flexible TPU preferred
+Trailer / Vehicle utility,panel clip,medium,non-structural trim/panel clip only
+Livestock / Coop,feed scoop holder,medium,coop/barn organizer
+Livestock / Coop,waterer clip,medium,poultry waterer support
+Livestock / Coop,poultry nipple wrench,high,utility wrench
+Livestock / Coop,PVC feeder bracket,medium,feeder support
+Livestock / Coop,coop door guide bracket,medium,guide bracket
+Livestock / Coop,egg tray spacer,low,spacer/organizer
+Livestock / Coop,fence insulator clip,medium,electric fence insulator clip; verify use
